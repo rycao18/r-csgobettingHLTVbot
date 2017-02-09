@@ -18,6 +18,7 @@
   "homepage": "https://github.com/rycao18/r-csgobettingHLTVbot#readme",
   "dependencies": {
     "cheerio": "^0.22.0",
-    "hltv-api": "^0.2.0"
+    "hltv-api": "^0.2.0",
+    "raw.js": "^0.6.0"
   }
 }
