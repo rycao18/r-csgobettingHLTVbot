@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -253,16 +255,16 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
         "News": {
             "<div>Top news today<\/div>": {
                 "0": [
-                    "\/news\/19759-vp-to-major-final-ahead-of-sk",
-                    "VP to Major final ahead of SK"
+                    "\/news\/19820-scream-to-join-envyus",
+                    "ScreaM to join EnVyUs"
                 ],
                 "1": [
-                    "\/news\/19761-astralis-the-job-isnt-done",
-                    "Astralis: &quot;The job isn't done&quot;"
+                    "\/news\/19816-liquid-confirm-hiko-exit",
+                    "Liquid confirm Hiko exit"
                 ],
                 "2": [
-                    "\/news\/19762-astralis-win-the-eleague-major",
-                    "Astralis win the ELEAGUE Major!"
+                    "\/news\/19812-official-north-sign-aizy",
+                    "Official: North sign aizy"
                 ],
                 "9999": [
                     "\/",
@@ -271,16 +273,16 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
             },
             "Top this week": {
                 "3": [
-                    "\/news\/19745-fnx-set-to-join-immortals",
-                    "fnx set to join Immortals"
+                    "\/news\/19793-g2-announce-new-lineup",
+                    "G2 announce new lineup"
                 ],
                 "4": [
-                    "\/news\/19738-el-major-playoffs-bracket-drawn",
-                    "EL Major playoffs bracket drawn"
+                    "\/news\/19784-happy-to-create-new-team-report",
+                    "Happy to create new team - Report"
                 ],
                 "5": [
-                    "\/news\/19704-eleague-major-day-three-match-ups",
-                    "ELEAGUE Major day three match-ups *"
+                    "\/news\/19798-fnatic-and-godsent-swap-two",
+                    "fnatic and GODSENT swap two"
                 ],
                 "9999": [
                     "\/",
@@ -289,16 +291,16 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
             },
             "Archive": {
                 "1": [
+                    "http:\/\/www.hltv.org\/news\/archive\/\/2017\/february\/",
+                    "February"
+                ],
+                "2": [
                     "http:\/\/www.hltv.org\/news\/archive\/\/2017\/january\/",
                     "January"
                 ],
-                "2": [
+                "3": [
                     "http:\/\/www.hltv.org\/news\/archive\/\/2016\/december\/",
                     "December"
-                ],
-                "3": [
-                    "http:\/\/www.hltv.org\/news\/archive\/\/2016\/november\/",
-                    "November"
                 ],
                 "9999": [
                     "\/news\/archive\/",
@@ -309,19 +311,19 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
         "Matches": {
             "Todays matches": {
                 "0": [
-                    "\/match\/2307587-singularity-cph-flames-dust2dk-masters-2",
+                    "\/match\/2307840-progaming-black-dragons-liga-pro-gamersclub-jan-17",
                     "<span class=\"menuTimeCellLive\">LIVE<\/span>",
-                    "Singularity vs CPH Flames"
+                    "ProGaming vs Black Dragons"
                 ],
                 "1": [
-                    "\/match\/2307592-playing-ducks-outlaws-cevo-main-season-11-europe",
+                    "\/match\/2307770-optic-renegades-esl-pro-league-season-5-na",
                     "<span class=\"menuTimeCellLive\">LIVE<\/span>",
-                    "Playing Ducks vs Outlaws"
+                    "OpTic vs Renegades"
                 ],
                 "2": [
-                    "\/match\/2307614-royal-flush-seven-settodestroyx-cevo-main-season-11-north-america",
-                    "<span class=\"tzTimestamp\">1485741600<\/span>",
-                    "Royal Flush Seven vs SetToDestroyX"
+                    "\/match\/2307771-misfits-rush-esl-pro-league-season-5-na",
+                    "<span class=\"menuTimeCellLive\">LIVE<\/span>",
+                    "Misfits vs Rush"
                 ],
                 "9999": [
                     "\/matches\/",
@@ -330,33 +332,33 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
             },
             "&nbsp;": [
                 [
-                    "\/match\/2307621-deez-nuts-darkpassage-hellcase-cup-2-closed-qualifier",
-                    "<span class=\"tzTimestamp\">1485784800<\/span>",
-                    "DEEZ NUTS vs DarkPassage"
+                    "\/match\/2307846-enigma6-ajax-esea-premier-season-24-north-america",
+                    "<span class=\"tzTimestamp\">1486607400<\/span>",
+                    "Enigma6 vs Ajax"
                 ],
                 [
-                    "\/match\/2307594-zarlans-vexilla-log-cup-2017",
-                    "<span class=\"tzTimestamp\">1485788400<\/span>",
-                    "zARLANS vs Vexilla"
+                    "\/match\/2307849-muffin-lightning-subtle-esea-premier-season-24-north-america",
+                    "<span class=\"tzTimestamp\">1486609200<\/span>",
+                    "Muffin Lightning vs subtLe"
                 ],
                 [
-                    "\/match\/2307615-big-igamecom-igamecom-winter-invitational",
-                    "<span class=\"tzTimestamp\">1485795600<\/span>",
-                    "BIG vs iGame.com"
+                    "\/match\/2307850-mostly-harmless-eanix-esea-premier-season-24-north-america",
+                    "<span class=\"tzTimestamp\">1486609200<\/span>",
+                    "Mostly Harmless vs Eanix"
                 ]
             ],
             "Archive": {
                 "1": [
+                    "http:\/\/www.hltv.org\/matches\/archive\/\/2017\/february\/",
+                    "February"
+                ],
+                "2": [
                     "http:\/\/www.hltv.org\/matches\/archive\/\/2017\/january\/",
                     "January"
                 ],
-                "2": [
+                "3": [
                     "http:\/\/www.hltv.org\/matches\/archive\/\/2016\/december\/",
                     "December"
-                ],
-                "3": [
-                    "http:\/\/www.hltv.org\/matches\/archive\/\/2016\/november\/",
-                    "November"
                 ],
                 "9999": [
                     "\/matches\/archive\/",
@@ -367,19 +369,19 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
         "Results": {
             "Latest results": {
                 "0": [
-                    "\/match\/2307548-astralis-virtuspro-eleague-major-2017",
-                    "2-1",
-                    "Astralis vs Virtus.pro"
+                    "\/match\/2307845-denial-ambition-esea-premier-season-24-north-america",
+                    "16-6",
+                    "Denial vs Ambition"
                 ],
                 "1": [
-                    "\/match\/2307512-tricked-academy-1944-dolphin-cs-shoot-em-up-2",
-                    "2-0",
-                    "Tricked Academy vs 1944"
+                    "\/match\/2307841-idm-teamone-liga-pro-gamersclub-jan-17",
+                    "0-2",
+                    "IDM vs TeamOne"
                 ],
                 "2": [
-                    "\/match\/2307586-fuah-cph-flames-dust2dk-masters-2",
-                    "1-2",
-                    "FUAH vs CPH Flames"
+                    "\/match\/2307769-rush-misfits-esl-pro-league-season-5-na",
+                    "12-16",
+                    "Rush vs Misfits"
                 ],
                 "9999": [
                     "\/results\/",
@@ -388,35 +390,35 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
             },
             "&nbsp": [
                 [
-                    "\/match\/2307585-singularity-animals-dust2dk-masters-2",
-                    "2-0",
-                    "Singularity vs ANIMALS"
+                    "\/match\/2307768-renegades-optic-esl-pro-league-season-5-na",
+                    "5-16",
+                    "Renegades vs OpTic"
                 ],
                 [
-                    "\/match\/2307547-virtuspro-sk-eleague-major-2017",
-                    "2-0",
-                    "Virtus.pro vs SK"
+                    "\/match\/2307755-heroic-faze-esl-pro-league-season-5-eu",
+                    "7-16",
+                    "Heroic vs FaZe"
                 ],
                 [
-                    "\/match\/2307546-astralis-fnatic-eleague-major-2017",
-                    "2-0",
-                    "Astralis vs fnatic"
+                    "\/match\/2307816-vexed-big-esea-premier-season-24-europe",
+                    "5-16",
+                    "Vexed vs BIG"
                 ]
             ]
         },
         "Replays": {
             "Highlights": {
                 "0": [
-                    "\/match\/2307587-singularity-cph-flames-dust2dk-masters-2",
-                    "M2 | neon - 1vs2 clutch (T - post-plant situation) - second half pistol round"
+                    "\/match\/2307845-denial-ambition-esea-premier-season-24-north-america",
+                    "maxie (CT) wins the post-plant duel with BishUP (bombsite B) to secure the match victory for Denial"
                 ],
                 "1": [
-                    "\/match\/2307592-playing-ducks-outlaws-cevo-main-season-11-europe",
-                    "M1 | Partodis - 1vs2 clutch (CT - pre-plant situation)"
+                    "\/match\/2307845-denial-ambition-esea-premier-season-24-north-america",
+                    "Xp3 - 4 kills (2 AWP, 2 P250 HS) on the bombsite B defense to set Denial on match point"
                 ],
                 "2": [
-                    "\/match\/2307592-playing-ducks-outlaws-cevo-main-season-11-europe",
-                    "M1 | Partodis - 1vs2 clutch (CT - post-plant situation)"
+                    "\/match\/2307845-denial-ambition-esea-premier-season-24-north-america",
+                    "anger - 4 AK kills on the bombsite A bomb plant defense (including 1vs2 clutch)"
                 ],
                 "9999": [
                     "\/matches\/archive\/highlights\/",
@@ -425,16 +427,16 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
             },
             "GOTV demos": {
                 "3": [
-                    "\/?pageid=28&demoid=25531",
-                    "Astralis vs Virtus.pro"
+                    "\/?pageid=28&demoid=25757",
+                    "Rush vs Misfits"
                 ],
                 "4": [
-                    "\/?pageid=28&demoid=25530",
-                    "FUAH vs CPH Flames"
+                    "\/?pageid=28&demoid=25756",
+                    "Renegades vs OpTic"
                 ],
                 "5": [
-                    "\/?pageid=28&demoid=25529",
-                    "Singularity vs ANIMALS"
+                    "\/?pageid=28&demoid=25755",
+                    "Natus Vincere vs Virtus.pro"
                 ],
                 "9999": [
                     "\/?pageid=28",
@@ -443,46 +445,89 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
             },
             "VODs": {
                 "6": [
-                    "\/match\/2307548-astralis-virtuspro-eleague-major-2017",
-                    "Astralis vs Virtus.pro"
+                    "\/match\/2307845-denial-ambition-esea-premier-season-24-north-america",
+                    "Denial vs Ambition"
                 ],
                 "7": [
-                    "\/match\/2307548-astralis-virtuspro-eleague-major-2017",
-                    "Astralis vs Virtus.pro"
+                    "\/match\/2307768-renegades-optic-esl-pro-league-season-5-na",
+                    "Renegades vs OpTic"
                 ],
                 "8": [
-                    "\/match\/2307548-aseight: bold;\">More..<\/span>"
+                    "\/match\/2307768-renegades-optic-esl-pro-league-season-5-na",
+                    "Renegades vs OpTic"
+                ],
+                "9999": [
+                    "\/matches\/archive\/vods\/",
+                    "<span style=\"font-weight: bold;\">More..<\/span>"
+                ]
+            },
+            "POV demos": {
+                "9": [
+                    "\/?pageid=198&demoid=5408",
+                    "GuardiaN vs LDLC White"
+                ],
+                "10": [
+                    "\/?pageid=198&demoid=5407",
+                    "pyth vs CLG"
+                ],
+                "11": [
+                    "\/?pageid=198&demoid=5406",
+                    "XANTARES vs 1337"
+                ],
+                "9999": [
+                    "\/?pageid=198",
+                    "<span style=\"font-weight: bold;\">More..<\/span>"
+                ]
+            }
+        },
+        "Events": {
+            "Ongoing events": {
+                "0": [
+                    "\/?pageid=82&eventid=2254",
+                    "Razer Rising Stars European League Season 1"
+                ],
+                "1": [
+                    "\/?pageid=82&eventid=2533",
+                    "fpsGOD Super League #Winter"
+                ],
+                "2": [
+                    "\/?pageid=82&eventid=2543",
+                    "King of Nordic Season 5"
+                ],
+                "9999": [
+                    "\/events\/ongoing\/",
+                    "<span style=\"font-weight: bold;\">More..<\/span>"
                 ]
             },
             "&nbsp;": [
                 [
-                    "\/?pageid=82&eventid=2664",
-                    "CEVO Main Season 11 Europe"
+                    "\/?pageid=82&eventid=2638",
+                    "ESL Pro League Season 5 EU"
                 ],
                 [
-                    "\/?pageid=82&eventid=2665",
-                    "CEVO Main Season 11 North America"
+                    "\/?pageid=82&eventid=2639",
+                    "ESL Pro League Season 5 NA"
                 ],
                 [
-                    "\/?pageid=82&eventid=2666",
-                    "Dust2.dk Masters #2"
+                    "\/?pageid=82&eventid=2645",
+                    "Dolphin CS Shoot 'Em Up 2"
                 ]
             ],
             "Upcoming events": {
                 "0": [
-                    "\/?pageid=82&eventid=2667",
-                    "30\/01",
-                    "Hellcase Cup 2 Closed Qualifier"
+                    "\/?pageid=82&eventid=2685",
+                    "09\/02",
+                    "Binary Dragons Cup Season 3"
                 ],
                 "1": [
-                    "\/?pageid=82&eventid=2670",
-                    "30\/01",
-                    "LOG Cup 2017"
+                    "\/?pageid=82&eventid=2541",
+                    "15\/02",
+                    "DreamHack Masters Las Vegas 2017"
                 ],
                 "2": [
-                    "\/?pageid=82&eventid=2671",
-                    "30\/01",
-                    "iGame.com Winter Invitational"
+                    "\/?pageid=82&eventid=2676",
+                    "17\/02",
+                    "ESL Australia &amp; NZ Championship Season 3 Closed Qualifier"
                 ],
                 "9999": [
                     "\/events\/upcoming\/",
@@ -535,59 +580,16 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
             },
             "Recent matches": {
                 "0": [
-                    "\/?pageid=188&amp;matchid=41026",
-                    "Singularity vs CPH Flames - overpass"
+                    "\/?pageid=188&amp;matchid=41406",
+                    "Ambition vs Denial - dust2"
                 ],
                 "1": [
-                    "\/?pageid=188&amp;matchid=41024",
-                    "Tricked Academy vs 1944 - nuke"
+                    "\/?pageid=188&amp;matchid=41404",
+                    "Rush vs Misfits - mirage"
                 ],
                 "2": [
-                    "\/?pageid=188&amp;matchid=41022",
-   tralis-virtuspro-eleague-major-2017",
-                    "Astralis vs Virtus.pro"
-                ],
-                "9999": [
-                    "\/matches\/archive\/vods\/",
-                    "<span style=\"font-weight: bold;\">More..<\/span>"
-                ]
-            },
-            "POV demos": {
-                "9": [
-                    "\/?pageid=198&demoid=5408",
-                    "GuardiaN vs LDLC White"
-                ],
-                "10": [
-                    "\/?pageid=198&demoid=5407",
-                    "pyth vs CLG"
-                ],
-                "11": [
-                    "\/?pageid=198&demoid=5406",
-                    "XANTARES vs 1337"
-                ],
-                "9999": [
-                    "\/?pageid=198",
-                    "<span style=\"font-weight: bold;\">More..<\/span>"
-                ]
-            }
-        },
-        "Events": {
-            "Ongoing events": {
-                "0": [
-                    "\/?pageid=82&eventid=2533",
-                    "fpsGOD Super League #Winter"
-                ],
-                "1": [
-                    "\/?pageid=82&eventid=2543",
-                    "King of Nordic Season 5"
-                ],
-                "2": [
-                    "\/?pageid=82&eventid=2645",
-                    "Dolphin CS Shoot 'Em Up 2"
-                ],
-                "9999": [
-                    "\/events\/ongoing\/",
-                    "<span style=\"font-w                 "1944 vs Tricked Academy - train"
+                    "\/?pageid=188&amp;matchid=41403",
+                    "OpTic vs Renegades - cobblestone"
                 ],
                 "9999": [
                     "\/?pageid=188",
@@ -596,16 +598,16 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
             },
             "Recent events": {
                 "0": [
-                    "\/?pageid=183&amp;eventid=2666",
-                    "Dust2.dk Masters #2"
+                    "\/?pageid=183&amp;eventid=2673",
+                    "ESEA Premier Season 24 North America"
                 ],
                 "1": [
-                    "\/?pageid=183&amp;eventid=2645",
-                    "Dolphin CS Shoot 'Em Up 2"
+                    "\/?pageid=183&amp;eventid=2639",
+                    "ESL Pro League Season 5 NA"
                 ],
                 "2": [
-                    "\/?pageid=183&amp;eventid=2471",
-                    "ELEAGUE Major 2017"
+                    "\/?pageid=183&amp;eventid=2682",
+                    "Liga PRO GamersClub - JAN\/17"
                 ],
                 "9999": [
                     "\/?pageid=193",
@@ -616,16 +618,16 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
         "Galleries": {
             "Recent": {
                 "0": [
+                    "\/gallery\/10098",
+                    "Netparty Herning January 2017"
+                ],
+                "1": [
                     "\/gallery\/10061",
                     "ELEAGUE Major 2017 - Day 7"
                 ],
-                "1": [
+                "2": [
                     "\/gallery\/10047",
                     "ELEAGUE Major 2017 - Day 6"
-                ],
-                "2": [
-                    "\/gallery\/10035",
-                    "ELEAGUE Major 2017 - Day 5"
                 ],
                 "9999": [
                     "\/?pageid=121",
@@ -634,16 +636,16 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
             },
             "&nbsp;": {
                 "4": [
+                    "\/gallery\/10035",
+                    "ELEAGUE Major 2017 - Day 5"
+                ],
+                "5": [
                     "\/gallery\/10012",
                     "ELEAGUE Major 2017 - Day 4"
                 ],
-                "5": [
+                "6": [
                     "\/gallery\/10001",
                     "ELEAGUE Major 2017 - Day 3"
-                ],
-                "6": [
-                    "\/gallery\/9987",
-                    "ELEAGUE Major 2017 - Day 2"
                 ]
             },
             "Tools": {
@@ -800,25 +802,25 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
 
         <div class="boxBodyFadeDark" style="padding-bottom:2px;text-align:center;">
 		<style type="text/css">
-.taggedImagehighlight9216 {
+.taggedImagehighlight1088 {
    background-repeat:no-repeat;
    background-size:135px;
    background-position: 0px 0px;
    width:135px;
    height:135px;
-   background-image: url(http://static.hltv.org/images/playerprofile/thumb/9216/400.jpeg?v=2);'
+   background-image: url(http://static.hltv.org/images/playerprofile/thumb/1088/400.jpeg?v=2);'
    
    
 }
 </style>  <div class="playerHighlightBox" style="">
-    <a href="/?pageid=348&statsfilter=10&eventid=2471"><div class="playerHighlightPicture taggedImagehighlight9216"></div>
+    <a href="/?pageid=348&statsfilter=10"><div class="playerHighlightPicture taggedImagehighlight1088"></div>
     </a>
     <div
-        style="background-size: 80px;background-color: rgba(244, 244, 244, .9);background-blend-mode:overlay;background-repeat:no-repeat;background-position: bottom center;background-image: url(http://static.hltv.org/images/team/logo/6137)">
-      <div class="playerHighlightName" style=""><img src="http://static.hltv.org//images/flag/br.gif"/> <a href="/?pageid=348&statsfilter=10&eventid=2471">coldzera</a></div>
+        style="background-size: 80px;background-color: rgba(244, 244, 244, .9);background-blend-mode:overlay;background-repeat:no-repeat;background-position: bottom center;background-image: url(http://static.hltv.org/images/team/logo/4610)">
+      <div class="playerHighlightName" style=""><img src="http://static.hltv.org//images/flag/ru.gif"/> <a href="/?pageid=348&statsfilter=10">liTTle</a></div>
       <div style="">
-        <div class="playerHighlightText" style="">Highest rated</div>
-        <div class="playerHighlightValue" title="Across 9 maps">1.31</div>
+        <div class="playerHighlightText" style="">Most AWP Kills</div>
+        <div class="playerHighlightValue" title="Across 6 maps">0.60<span style="font-size:smaller">/round</span></div>
       </div>
     </div>
   </div>
@@ -855,7 +857,7 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
 					  <a href="/news/19662-top-20-players-of-2016-coldzera-1">
   <div class="vsbox" style="line-height: 20px;display:flex;flex-direction: row;justify-content: space-between;align-items: center;padding-right:4px;">
 
-    <div style="margin-top:-4px;margin-left:2px;height:28px;width:28px;background-image:url(http://static.hltv.org/images/playerprofile/thumb/9216/400.jpeg?v=2);background-position: 0px 0px;background-size: 28px;"></div>
+    <div style="margin-top:-4px;margin-left:2px;height:28px;width:28px;background-image:url(http://static.hltv.org/images/playerprofile/thumb/9216/400.jpeg?v=4);background-position: 0px 0px;background-size: 28px;"></div>
     <img style="width:18px;height:12px;" src="http://static.hltv.org//images/flag/br.gif" />
     <div style="font-size:12px;width:70px;"> coldzera</div>
     <div class="" style="font-size:12px;color:#2d6ca2;width:20px;font-weight: bold;">1</div>
@@ -865,7 +867,7 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
     <a href="/news/19655-top-20-players-of-2016-fallen-2">
   <div class="vsbox" style="line-height: 20px;display:flex;flex-direction: row;justify-content: space-between;align-items: center;padding-right:4px;">
 
-    <div style="margin-top:-4px;margin-left:2px;height:28px;width:28px;background-image:url(http://static.hltv.org/images/playerprofile/thumb/2023/400.jpeg?v=5);background-position: 0px 0px;background-size: 28px;"></div>
+    <div style="margin-top:-4px;margin-left:2px;height:28px;width:28px;background-image:url(http://static.hltv.org/images/playerprofile/thumb/2023/400.jpeg?v=7);background-position: 0px 0px;background-size: 28px;"></div>
     <img style="width:18px;height:12px;" src="http://static.hltv.org//images/flag/br.gif" />
     <div style="font-size:12px;width:70px;"> FalleN</div>
     <div class="" style="font-size:12px;color:#2d6ca2;width:20px;font-weight: bold;">2</div>
@@ -875,7 +877,7 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
     <a href="/news/19647-top-20-players-of-2016-device-3">
   <div class="vsbox" style="line-height: 20px;display:flex;flex-direction: row;justify-content: space-between;align-items: center;padding-right:4px;">
 
-    <div style="margin-top:-4px;margin-left:2px;height:28px;width:28px;background-image:url(http://static.hltv.org/images/playerprofile/thumb/7592/400.jpeg?v=2);background-position: 0px 0px;background-size: 28px;"></div>
+    <div style="margin-top:-4px;margin-left:2px;height:28px;width:28px;background-image:url(http://static.hltv.org/images/playerprofile/thumb/7592/400.jpeg?v=3);background-position: 0px 0px;background-size: 28px;"></div>
     <img style="width:18px;height:12px;" src="http://static.hltv.org//images/flag/dk.gif" />
     <div style="font-size:12px;width:70px;"> device</div>
     <div class="" style="font-size:12px;color:#2d6ca2;width:20px;font-weight: bold;">3</div>
@@ -885,7 +887,7 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
     <a href="/news/19642-top-20-players-of-2016-s1mple-4">
   <div class="vsbox" style="line-height: 20px;display:flex;flex-direction: row;justify-content: space-between;align-items: center;padding-right:4px;">
 
-    <div style="margin-top:-4px;margin-left:2px;height:28px;width:28px;background-image:url(http://static.hltv.org/images/playerprofile/thumb/7998/400.jpeg?v=9);background-position: 0px 0px;background-size: 28px;"></div>
+    <div style="margin-top:-4px;margin-left:2px;height:28px;width:28px;background-image:url(http://static.hltv.org/images/playerprofile/thumb/7998/400.jpeg?v=11);background-position: 0px 0px;background-size: 28px;"></div>
     <img style="width:18px;height:12px;" src="http://static.hltv.org//images/flag/ua.gif" />
     <div style="font-size:12px;width:70px;"> s1mple</div>
     <div class="" style="font-size:12px;color:#2d6ca2;width:20px;font-weight: bold;">4</div>
@@ -943,10 +945,10 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
   </div>
     <div class="vsbox" style="line-height: 20px;">
     <div class="frontpage-ranking-rank" style="float:left;font-size:18px;color:#2d6ca2"><a href="/ranking/teams/">#2</a></div>
-    <a href="/?pageid=362&amp;teamid=6615">
-    <div style="float:left;"><img class="frontpage-ranking-logo" src="http://static.hltv.org/images/team/logo/6615"
-                                  alt="OpTic"/></div>
-    <div style="float:left;font-size:12px;margin-top:5px;"> OpTic</div>
+    <a href="/?pageid=362&amp;teamid=5378">
+    <div style="float:left;"><img class="frontpage-ranking-logo" src="http://static.hltv.org/images/team/logo/5378"
+                                  alt="Virtus.pro"/></div>
+    <div style="float:left;font-size:12px;margin-top:5px;"> Virtus.pro</div>
     </a>
     <div style="clear:both;"></div>
   </div>
@@ -961,25 +963,25 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
   </div>
     <div class="vsbox" style="line-height: 20px;">
     <div class="frontpage-ranking-rank" style="float:left;font-size:18px;color:#2d6ca2"><a href="/ranking/teams/">#4</a></div>
-    <a href="/?pageid=362&amp;teamid=5378">
-    <div style="float:left;"><img class="frontpage-ranking-logo" src="http://static.hltv.org/images/team/logo/5378"
-                                  alt="Virtus.pro"/></div>
-    <div style="float:left;font-size:12px;margin-top:5px;"> Virtus.pro</div>
+    <a href="/?pageid=362&amp;teamid=6667">
+    <div style="float:left;"><img class="frontpage-ranking-logo" src="http://static.hltv.org/images/team/logo/6667"
+                                  alt="FaZe"/></div>
+    <div style="float:left;font-size:12px;margin-top:5px;"> FaZe</div>
     </a>
     <div style="clear:both;"></div>
   </div>
     <div class="vsbox" style="line-height: 20px;">
     <div class="frontpage-ranking-rank" style="float:left;font-size:18px;color:#2d6ca2"><a href="/ranking/teams/">#5</a></div>
-    <a href="/?pageid=362&amp;teamid=4411">
-    <div style="float:left;"><img class="frontpage-ranking-logo" src="http://static.hltv.org/images/team/logo/4411"
-                                  alt="NiP"/></div>
-    <div style="float:left;font-size:12px;margin-top:5px;"> NiP</div>
+    <a href="/?pageid=362&amp;teamid=7533">
+    <div style="float:left;"><img class="frontpage-ranking-logo" src="http://static.hltv.org/images/team/logo/7533"
+                                  alt="North"/></div>
+    <div style="float:left;font-size:12px;margin-top:5px;"> North</div>
     </a>
     <div style="clear:both;"></div>
   </div>
   <a href="/ranking/teams/">
 <div class="vsbox" style="line-height: 20px;text-align:center;">
-  <div style="float:left;font-size:10px;margin-top:1px;width:147px;line-height: 12px;">Complete ranking<br/>Last updated: 23rd of Jan</div>
+  <div style="float:left;font-size:10px;margin-top:1px;width:147px;line-height: 12px;">Complete ranking<br/>Last updated: 6th of Feb</div>
   <div style="clear:both;"></div>
 </div>
 </a>        </div>
@@ -1014,10 +1016,10 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
 			</div>
 			<div class="boxBodyFadeDark" style="padding-left:4px;">
 				<div class="galleryFrontpageThumbFrame">
-  <div class="galleryThumbText" style="text-align:center;margin-top:0px;margin-bottom:2px;"><a href="/gallery/6874"><b>Gfinity 2015 Summer Masters 1 - Day 3</b></a></div>
-	<a href="/gallery/view/44212"><img id="picture_44212" class="galleryThumbImg" src="http://static.hltv.org/./images/galleries/6874-thumb/1435518420.4212.jpeg" title="Click to enlarge" alt="" /></a>
+  <div class="galleryThumbText" style="text-align:center;margin-top:0px;margin-bottom:2px;"><a href="/gallery/4285"><b>WCG 2011 - Friday</b></a></div>
+	<a href="/gallery/view/21011"><img id="picture_21011" class="galleryThumbImg" src="http://static.hltv.org/./images/galleries/4285-thumb/1323403859.23.jpeg" title="Click to enlarge" alt="" /></a>
 	<div class="galleryThumbText"></div>
-	<div style="display: none;">44212</div>
+	<div style="display: none;">21011</div>
 </div>
 			</div>
 		</li>
@@ -1033,7 +1035,7 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
 								<div style="clear:both;"></div>
 				  <div style="width:100%;height:100%;background-color:white">
 				  	<div style="padding-left:5px;padding-top:0px;">				  	
-						<div class="covSmallHeadline" style="font-weight:normal;width:100%;float:left;" ><a href="/movie/1637-skget-right-vs-mousesports"><div style="text-align:center;">SK.GeT_RiGhT vs mousesports</div><div style="background-position:center;height:68px;width:120px;background-image: url(http://i.ytimg.com/vi/JUVf2jbO9Ns/1.jpg)"></div><br/><div style="margin-top:-10px;text-align:center;"><img src="http://static.hltv.org//images/demosection/active_star.png" alt="star"><img src="http://static.hltv.org//images/demosection/active_star.png" alt="star"><img src="http://static.hltv.org//images/demosection/active_star.png" alt="star"><img src="http://static.hltv.org//images/demosection/active_star.png" alt="star"><img src="http://static.hltv.org//images/demosection/active_star.png" alt="star"></div></a></div>						
+						<div class="covSmallHeadline" style="font-weight:normal;width:100%;float:left;" ><a href="/movie/21843-the-best-csgo-trickshots-trickshotting-on-csgo"><div style="text-align:center;">The Best CSGO Trickshots (Trickshotting on CSGO)</div><div style="background-position:center;height:68px;width:120px;background-image: url(https://i.ytimg.com/vi/2af5nHWUovA/default.jpg)"></div><br/><div style="margin-top:-10px;text-align:center;"><img src="http://static.hltv.org//images/demosection/active_star.png" alt="star"><img src="http://static.hltv.org//images/demosection/active_star.png" alt="star"><img src="http://static.hltv.org//images/demosection/star.png" alt="inactivestar"><img src="http://static.hltv.org//images/demosection/star.png" alt="inactivestar"><img src="http://static.hltv.org//images/demosection/star.png" alt="inactivestar"></div></a></div>						
 						<div style="clear:both;height:0px;"></div>
 					</div>
 				</div>
@@ -1066,31 +1068,31 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
 			</div>
 			<div class="boxBodyFadeDark">
 				  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="FNATIC CHANGES CONFIRMED" href="/forum/1384400-fnatic-changes-confirmed"> FNATIC CHANGES CONFIRMED</a></div><div style="text-align: right; width: 30px; float: right;">(106)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="Should VP retire? That was their best chance" href="/forum/1384545-should-vp-retire-that-was-their-best-chance"> Should VP retire? That was their best ch..</a></div><div style="text-align: right; width: 30px; float: right;">(53)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="Astralis will dominate 2017" href="/forum/1384577-astralis-will-dominate-2017"> Astralis will dominate 2017</a></div><div style="text-align: right; width: 30px; float: right;">(53)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="NEXT MAJOR?" href="/forum/1384610-next-major"> NEXT MAJOR?</a></div><div style="text-align: right; width: 30px; float: right;">(7)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="karigan was the problem" href="/forum/1384616-karigan-was-the-problem"> karigan was the problem</a></div><div style="text-align: right; width: 30px; float: right;">(1)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="TaZ cocky " href="/forum/1384595-taz-cocky"> TaZ cocky </a></div><div style="text-align: right; width: 30px; float: right;">(53)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="Astralis and fans" href="/forum/1384602-astralis-and-fans"> Astralis and fans</a></div><div style="text-align: right; width: 30px; float: right;">(15)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="Single Player Games for &quot;bad&quot; PC" href="/forum/1384612-single-player-games-for-quotbadquot-pc"> Single Player Games for &quot;bad&quot; ..</a></div><div style="text-align: right; width: 30px; float: right;">(1)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/8.gif" alt="" title="Blogs" /><a title="Astralis Fans, I Made a Mistake" href="/blog/13559-astralis-fans-i-made-a-mistake"> Astralis Fans, I Made a Mistake</a></div><div style="text-align: right; width: 30px; float: right;">(12)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="Polaks come here" href="/forum/1384553-polaks-come-here"> Polaks come here</a></div><div style="text-align: right; width: 30px; float: right;">(32)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="SK ERA ?" href="/forum/1384613-sk-era"> SK ERA ?</a></div><div style="text-align: right; width: 30px; float: right;">(6)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="kjarebye mvp" href="/forum/1384583-kjarebye-mvp"> kjarebye mvp</a></div><div style="text-align: right; width: 30px; float: right;">(18)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="Low FPS in CS:GO w/ GTX 970 and i5-3570k." href="/forum/761621-low-fps-in-csgo-w-gtx-970-and-i5-3570k"> Low FPS in CS:GO w/ GTX 970 and i5-3570k..</a></div><div style="text-align: right; width: 30px; float: right;">(37)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/4.gif" alt="" title="News" /><a title="Astralis win the ELEAGUE Major!" href="/news/19762-astralis-win-the-eleague-major"> Astralis win the ELEAGUE Major!</a></div><div style="text-align: right; width: 30px; float: right;">(448)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="Respect Virtus.Throw" href="/forum/1384608-respect-virtusthrow"> Respect Virtus.Throw</a></div><div style="text-align: right; width: 30px; float: right;">(4)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="tier1" href="/forum/1384391-tier1"> tier1</a></div><div style="text-align: right; width: 30px; float: right;">(85)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="R.I.P CS GO" href="/forum/1384275-rip-cs-go"> R.I.P CS GO</a></div><div style="text-align: right; width: 30px; float: right;">(18)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="Pick em trophies" href="/forum/1384615-pick-em-trophies"> Pick em trophies</a></div><div style="text-align: right; width: 30px; float: right;">(0)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="Astralis didnt even perform well" href="/forum/1384325-astralis-didnt-even-perform-well"> Astralis didnt even perform well</a></div><div style="text-align: right; width: 30px; float: right;">(32)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="Finally the major is over." href="/forum/1384614-finally-the-major-is-over"> Finally the major is over.</a></div><div style="text-align: right; width: 30px; float: right;">(0)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="Pick'Em Results" href="/forum/1384528-pickem-results"> Pick'Em Results</a></div><div style="text-align: right; width: 30px; float: right;">(33)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="State of Pro CSGO" href="/forum/1384581-state-of-pro-csgo"> State of Pro CSGO</a></div><div style="text-align: right; width: 30px; float: right;">(9)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/6.gif" alt="" title="Hot match" /><a title="Astralis vs Virtus.pro" href="/match/2307548-astralis-virtuspro-eleague-major-2017"> Astralis vs Virtus.pro</a></div><div style="text-align: right; width: 30px; float: right;">(1614)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="SNAX - The real MVP" href="/forum/1384600-snax-the-real-mvp"> SNAX - The real MVP</a></div><div style="text-align: right; width: 30px; float: right;">(13)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
-  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="HLTV team rankings" href="/forum/1384565-hltv-team-rankings"> HLTV team rankings</a></div><div style="text-align: right; width: 30px; float: right;">(20)</div><br />  				</div>
+  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="Pre-Work Out - Running" href="/forum/1393634-pre-work-out-running"> Pre-Work Out - Running</a></div><div style="text-align: right; width: 30px; float: right;">(5)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/6.gif" alt="" title="Hot match" /><a title="Immortals vs Luminosity" href="/match/2307772-immortals-luminosity-esl-pro-league-season-5-na"> Immortals vs Luminosity</a></div><div style="text-align: right; width: 30px; float: right;">(16)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="Suing HLTV" href="/forum/1393613-suing-hltv"> Suing HLTV</a></div><div style="text-align: right; width: 30px; float: right;">(13)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="NIP Roster change" href="/forum/1393625-nip-roster-change"> NIP Roster change</a></div><div style="text-align: right; width: 30px; float: right;">(9)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/6.gif" alt="" title="Hot match" /><a title="OpTic vs Renegades" href="/match/2307770-optic-renegades-esl-pro-league-season-5-na"> OpTic vs Renegades</a></div><div style="text-align: right; width: 30px; float: right;">(41)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="NAF-FLY cheater" href="/forum/1393605-naf-fly-cheater"> NAF-FLY cheater</a></div><div style="text-align: right; width: 30px; float: right;">(16)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="FaZe XANTARES Player profile video" href="/forum/1393631-faze-xantares-player-profile-video"> FaZe XANTARES Player profile video</a></div><div style="text-align: right; width: 30px; float: right;">(4)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/4.gif" alt="" title="News" /><a title="ScreaM to join EnVyUs" href="/news/19820-scream-to-join-envyus"> ScreaM to join EnVyUs</a></div><div style="text-align: right; width: 30px; float: right;">(505)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="GeT_RiGhT English " href="/forum/1393639-get-right-english"> GeT_RiGhT English </a></div><div style="text-align: right; width: 30px; float: right;">(11)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="OpTiC Hiko" href="/forum/1393642-optic-hiko"> OpTiC Hiko</a></div><div style="text-align: right; width: 30px; float: right;">(2)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="SHOX ROASTED XANTARES" href="/forum/1393537-shox-roasted-xantares"> SHOX ROASTED XANTARES</a></div><div style="text-align: right; width: 30px; float: right;">(76)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="XANTARES to FAZE  ?" href="/forum/1393513-xantares-to-faze"> XANTARES to FAZE  ?</a></div><div style="text-align: right; width: 30px; float: right;">(38)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="Good haircut for big head?" href="/forum/1393637-good-haircut-for-big-head"> Good haircut for big head?</a></div><div style="text-align: right; width: 30px; float: right;">(5)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="Optic HIKO" href="/forum/1393636-optic-hiko"> Optic HIKO</a></div><div style="text-align: right; width: 30px; float: right;">(2)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/6.gif" alt="" title="Hot match" /><a title="Muffin Lightning vs subtLe" href="/match/2307849-muffin-lightning-subtle-esea-premier-season-24-north-america"> Muffin Lightning vs subtLe</a></div><div style="text-align: right; width: 30px; float: right;">(2)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="hottest pro" href="/forum/1393624-hottest-pro"> hottest pro</a></div><div style="text-align: right; width: 30px; float: right;">(7)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="SUP FELPS" href="/forum/1393641-sup-felps"> SUP FELPS</a></div><div style="text-align: right; width: 30px; float: right;">(0)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="Tier 1 CHESS GOD??" href="/forum/1393561-tier-1-chess-god"> Tier 1 CHESS GOD??</a></div><div style="text-align: right; width: 30px; float: right;">(27)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/6.gif" alt="" title="Hot match" /><a title="CLG vs Selfless" href="/match/2307775-clg-selfless-esl-pro-league-season-5-na"> CLG vs Selfless</a></div><div style="text-align: right; width: 30px; float: right;">(6)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="HELP WITH CONNECTION ISSUE" href="/forum/1393629-help-with-connection-issue"> HELP WITH CONNECTION ISSUE</a></div><div style="text-align: right; width: 30px; float: right;">(1)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="OpTic.mixwell Anti-eco FAST ACE" href="/forum/1393640-opticmixwell-anti-eco-fast-ace"> OpTic.mixwell Anti-eco FAST ACE</a></div><div style="text-align: right; width: 30px; float: right;">(0)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="Ceh9 about Xantares" href="/forum/1393620-ceh9-about-xantares"> Ceh9 about Xantares</a></div><div style="text-align: right; width: 30px; float: right;">(11)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="XANTARES NO FAZE" href="/forum/1393633-xantares-no-faze"> XANTARES NO FAZE</a></div><div style="text-align: right; width: 30px; float: right;">(5)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="SK|FalleN's 1vs5 clutch" href="/forum/1393638-sk-fallens-1vs5-clutch"> SK|FalleN's 1vs5 clutch</a></div><div style="text-align: right; width: 30px; float: right;">(0)</div><br />  	  	<div class="frontpagelink shorten" style="width: 110px; float: left;">
+  	<img src="http://static.hltv.org//images/category/5.gif" alt="" title="Counter-Strike" /><a title="SK|fer ACE vs. Immortals " href="/forum/1393635-sk-fer-ace-vs-immortals"> SK|fer ACE vs. Immortals </a></div><div style="text-align: right; width: 30px; float: right;">(0)</div><br />  				</div>
 		</li>
 
 
@@ -1099,7 +1101,7 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
 				<div class="boxBarText"><img src="http://static.hltv.org//images/latest_blogs.gif" alt="" /></div>
 			</div>
 			<div class="boxBodyFadeDark">
-				<div class="frontpagelink" style="width: 105px; float: left;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;"><a title="Astralis Fans, I Made a Mistake" href="/blog/13559-astralis-fans-i-made-a-mistake"><img src="http://static.hltv.org//images/flag/lu.gif" style="position:relative;top:2px;" alt=""/> dopplereffectdva</a></div><div style="text-align: right; width: 30px; float: right;">(12)</div><br/><div class="frontpagelink" style="width: 105px; float: left;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;"><a title="SK doesn't deserve hate" href="/blog/13558-sk-doesnt-deserve-hate"><img src="http://static.hltv.org//images/flag/fi.gif" style="position:relative;top:2px;" alt=""/> GODRxf</a></div><div style="text-align: right; width: 30px; float: right;">(62)</div><br/><div class="frontpagelink" style="width: 105px; float: left;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;"><a title="Life crossroad" href="/blog/13554-life-crossroad"><img src="http://static.hltv.org//images/flag/jp.gif" style="position:relative;top:2px;" alt=""/> KhabibNurmagomedov</a></div><div style="text-align: right; width: 30px; float: right;">(31)</div><br/><div class="frontpagelink" style="width: 105px; float: left;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;"><a title="BadUSB and how it can affect Pro CSGO" href="/blog/13553-badusb-and-how-it-can-affect-pro-csgo"><img src="http://static.hltv.org//images/flag/world.gif" style="position:relative;top:2px;" alt=""/> Milez0</a></div><div style="text-align: right; width: 30px; float: right;">(8)</div><br/><div class="frontpagelink" style="width: 105px; float: left;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;"><a title="The ELEAGUE Major Playoff Predictions!" href="/blog/13551-the-eleague-major-playoff-predictions"><img src="http://static.hltv.org//images/flag/lt.gif" style="position:relative;top:2px;" alt=""/> mariuksk2</a></div><div style="text-align: right; width: 30px; float: right;">(31)</div><br/><div class="frontpagelink" style="width: 105px; float: left;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;"><a title="Logos graphic designer." href="/blog/13549-logos-graphic-designer"><img src="http://static.hltv.org//images/flag/eu.gif" style="position:relative;top:2px;" alt=""/> G4UA</a></div><div style="text-align: right; width: 30px; float: right;">(14)</div><br/><div class="frontpagelink" style="width: 105px; float: left;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;"><a title="CS:GO mixed teams have no chance of winning a major" href="/blog/13541-csgo-mixed-teams-have-no-chance-of-winning-a-major"><img src="http://static.hltv.org//images/flag/eu.gif" style="position:relative;top:2px;" alt=""/> exi77</a></div><div style="text-align: right; width: 30px; float: right;">(28)</div><br/><div class="frontpagelink" style="width: 105px; float: left;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;"><a title="[GIVEAWAY]Accurate ELEAGUE Major Predictions! Day 4" href="/blog/13540-giveawayaccurate-eleague-major-predictions-day-4"><img src="http://static.hltv.org//images/flag/lt.gif" style="position:relative;top:2px;" alt=""/> mariuksk2</a></div><div style="text-align: right; width: 30px; float: right;">(46)</div><br/><div class="frontpagelink" style="width: 105px; float: left;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;"><a title="Pros on HLTV" href="/blog/13539-pros-on-hltv"><img src="http://static.hltv.org//images/flag/in.gif" style="position:relative;top:2px;" alt=""/> RrOuTe_FoRcE</a></div><div style="text-align: right; width: 30px; float: right;">(50)</div><br/><div class="frontpagelink" style="width: 105px; float: left;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;"><a title="CHEATING ON PROFESSIONAL LEVEL OF CS:GO" href="/blog/13538-cheating-on-professional-level-of-csgo"><img src="http://static.hltv.org//images/flag/hr.gif" style="position:relative;top:2px;" alt=""/> bckocro</a></div><div style="text-align: right; width: 30px; float: right;">(351)</div><br/><div style="clear:left;"></div>			</div>
+				<div class="frontpagelink" style="width: 105px; float: left;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;"><a title="Addiction and depression problems" href="/blog/13595-addiction-and-depression-problems"><img src="http://static.hltv.org//images/flag/gb.gif" style="position:relative;top:2px;" alt=""/> EZ4UK</a></div><div style="text-align: right; width: 30px; float: right;">(14)</div><br/><div class="frontpagelink" style="width: 105px; float: left;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;"><a title="Review of HyperX Alloy FPS Mechanical Keyboard" href="/blog/13592-review-of-hyperx-alloy-fps-mechanical-keyboard"><img src="http://static.hltv.org//images/flag/dk.gif" style="position:relative;top:2px;" alt=""/> CompassGRByx</a></div><div style="text-align: right; width: 30px; float: right;">(11)</div><br/><div class="frontpagelink" style="width: 105px; float: left;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;"><a title="How to Be Okay with Having a Brazilian Friend" href="/blog/13591-how-to-be-okay-with-having-a-brazilian-friend"><img src="http://static.hltv.org//images/flag/world.gif" style="position:relative;top:2px;" alt=""/> Elpics</a></div><div style="text-align: right; width: 30px; float: right;">(34)</div><br/><div class="frontpagelink" style="width: 105px; float: left;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;"><a title="A beginners guide to the stock market" href="/blog/13590-a-beginners-guide-to-the-stock-market"><img src="http://static.hltv.org//images/flag/se.gif" style="position:relative;top:2px;" alt=""/> Lodbrok</a></div><div style="text-align: right; width: 30px; float: right;">(68)</div><br/><div class="frontpagelink" style="width: 105px; float: left;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;"><a title="Who should be OpTic's 5th?" href="/blog/13589-who-should-be-optics-5th"><img src="http://static.hltv.org//images/flag/ca.gif" style="position:relative;top:2px;" alt=""/> Strilx</a></div><div style="text-align: right; width: 30px; float: right;">(36)</div><br/><div class="frontpagelink" style="width: 105px; float: left;"><a title="Hardware basics #3 - Headsets" href="/blog/13588-hardware-basics-3-headsets"><img src="http://static.hltv.org//images/flag/world.gif" style="position:relative;top:2px;;text-overflow: ellipsis;overflow: hidden;white-space: nowrap" alt=""/> <b>CompassGrex</b></a></div><div style="text-align: right; width: 30px; float: right;">(20)</div><br/><div class="frontpagelink" style="width: 105px; float: left;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;"><a title="G4U Graphics Logos" href="/blog/13587-g4u-graphics-logos"><img src="http://static.hltv.org//images/flag/eu.gif" style="position:relative;top:2px;" alt=""/> G4UA</a></div><div style="text-align: right; width: 30px; float: right;">(15)</div><br/><div class="frontpagelink" style="width: 105px; float: left;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;"><a title="North DH Las Vegas" href="/blog/13586-north-dh-las-vegas"><img src="http://static.hltv.org//images/flag/kr.gif" style="position:relative;top:2px;" alt=""/> f1nchy</a></div><div style="text-align: right; width: 30px; float: right;">(9)</div><br/><div class="frontpagelink" style="width: 105px; float: left;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;"><a title="Post Major Team Swaps and Changes (Speculations and Rumors)" href="/blog/13578-post-major-team-swaps-and-changes-speculations-and-rumors"><img src="http://static.hltv.org//images/flag/us.gif" style="position:relative;top:2px;" alt=""/> ElectrikSparks</a></div><div style="text-align: right; width: 30px; float: right;">(22)</div><br/><div class="frontpagelink" style="width: 105px; float: left;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;"><a title="French Super Team 2017: What We Now Know" href="/blog/13575-french-super-team-2017-what-we-now-know"><img src="http://static.hltv.org//images/flag/ca.gif" style="position:relative;top:2px;" alt=""/> DankInTheBank</a></div><div style="text-align: right; width: 30px; float: right;">(22)</div><br/><div style="clear:left;"></div>			</div>
 		</li>
 
 		<li id="boz0" class="box w1">
@@ -1107,7 +1109,7 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
 				<div class="boxBarText"><a href="/matches/archive/vods/"><img src="http://static.hltv.org//images/vod/latest_vods.gif" alt="" /></a></div>
 			</div>
 			<div class="boxBodyFadeDark" style="padding-bottom:0px">
-				<div class="vodbox" title="ELEAGUE Major 2017"><a href="/match/2307548-astralis-virtuspro-eleague-major-2017">  <span style="vertical-align: 10%;"><img src="http://static.hltv.org//images/flag/dk.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Astralis</span> <br/> <span style="vertical-align: 90%;"><img src="http://static.hltv.org//images/flag/pl.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Virtus.pro</span></a></div><div class="vodbox" title="Dolphin CS Shoot 'Em Up 2"><a href="/match/2307512-tricked-academy-1944-dolphin-cs-shoot-em-up-2">  <span style="vertical-align: 10%;"><img src="http://static.hltv.org//images/flag/dk.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Tricked Academy</span> <br/> <span style="vertical-align: 90%;"><img src="http://static.hltv.org//images/flag/lt.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">1944</span></a></div><div class="vodbox" title="Dust2.dk Masters #2"><a href="/match/2307586-fuah-cph-flames-dust2dk-masters-2">  <span style="vertical-align: 10%;"><img src="http://static.hltv.org//images/flag/dk.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">FUAH</span> <br/> <span style="vertical-align: 90%;"><img src="http://static.hltv.org//images/flag/dk.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">CPH Flames</span></a></div><div class="vodbox" title="Dust2.dk Masters #2"><a href="/match/2307585-singularity-animals-dust2dk-masters-2">  <span style="vertical-align: 10%;"><img src="http://static.hltv.org//images/flag/dk.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Singularity</span> <br/> <span style="vertical-align: 90%;"><img src="http://static.hltv.org//images/flag/dk.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">ANIMALS</span></a></div><div class="vodbox" title="ELEAGUE Major 2017"><a href="/match/2307547-virtuspro-sk-eleague-major-2017">  <span style="vertical-align: 10%;"><img src="http://static.hltv.org//images/flag/pl.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Virtus.pro</span> <br/> <span style="vertical-align: 90%;"><img src="http://static.hltv.org//images/flag/br.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">SK</span></a></div>			</div>
+				<div class="vodbox" title="ESEA Premier Season 24 North America"><a href="/match/2307845-denial-ambition-esea-premier-season-24-north-america">  <span style="vertical-align: 10%;"><img src="http://static.hltv.org//images/flag/eu.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Denial</span> <br/> <span style="vertical-align: 90%;"><img src="http://static.hltv.org//images/flag/us.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Ambition</span></a></div><div class="vodbox" title="ESL Pro League Season 5 NA"><a href="/match/2307768-renegades-optic-esl-pro-league-season-5-na">  <span style="vertical-align: 10%;"><img src="http://static.hltv.org//images/flag/au.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Renegades</span> <br/> <span style="vertical-align: 90%;"><img src="http://static.hltv.org//images/flag/us.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">OpTic</span></a></div><div class="vodbox" title="ESL Pro League Season 5 EU"><a href="/match/2307755-heroic-faze-esl-pro-league-season-5-eu">  <span style="vertical-align: 10%;"><img src="http://static.hltv.org//images/flag/dk.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Heroic</span> <br/> <span style="vertical-align: 90%;"><img src="http://static.hltv.org//images/flag/eu.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">FaZe</span></a></div><div class="vodbox" title="ESEA Premier Season 24 Europe"><a href="/match/2307816-vexed-big-esea-premier-season-24-europe">  <span style="vertical-align: 10%;"><img src="http://static.hltv.org//images/flag/fr.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Vexed</span> <br/> <span style="vertical-align: 90%;"><img src="http://static.hltv.org//images/flag/de.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">BIG</span></a></div><div class="vodbox" title="ESL Pro League Season 5 EU"><a href="/match/2307753-fnatic-north-esl-pro-league-season-5-eu">  <span style="vertical-align: 10%;"><img src="http://static.hltv.org//images/flag/se.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">fnatic</span> <br/> <span style="vertical-align: 90%;"><img src="http://static.hltv.org//images/flag/dk.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">North</span></a></div>			</div>
 		</li>
 
 		<li id="boz3" class="box w1">
@@ -1116,7 +1118,7 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
 			</div>
 			<div class="boxBodyFadeDark" style="padding-bottom:0px">
 				<div></div>
-				<div class="demobox" title="ELEAGUE Major 2017"><a href="/?pageid=28&amp;ref=frontpageBox&amp;demoid=25531">  <span style="vertical-align: 10%;"><img src="http://static.hltv.org//images/flag/dk.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Astralis</span> <br/> <span style="vertical-align: 90%;"><img src="http://static.hltv.org//images/flag/pl.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Virtus.pro</span></a></div><div class="demobox" title="Dust2.dk Masters #2"><a href="/?pageid=28&amp;ref=frontpageBox&amp;demoid=25530">  <span style="vertical-align: 10%;"><img src="http://static.hltv.org//images/flag/dk.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">FUAH</span> <br/> <span style="vertical-align: 90%;"><img src="http://static.hltv.org//images/flag/dk.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">CPH Flames</span></a></div><div class="demobox" title="Dust2.dk Masters #2"><a href="/?pageid=28&amp;ref=frontpageBox&amp;demoid=25529">  <span style="vertical-align: 10%;"><img src="http://static.hltv.org//images/flag/dk.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Singularity</span> <br/> <span style="vertical-align: 90%;"><img src="http://static.hltv.org//images/flag/dk.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">ANIMALS</span></a></div><div class="demobox" title="ELEAGUE Major 2017"><a href="/?pageid=28&amp;ref=frontpageBox&amp;demoid=25528">  <span style="vertical-align: 10%;"><img src="http://static.hltv.org//images/flag/pl.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Virtus.pro</span> <br/> <span style="vertical-align: 90%;"><img src="http://static.hltv.org//images/flag/br.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">SK</span></a></div><div class="demobox" title="ELEAGUE Major 2017"><a href="/?pageid=28&amp;ref=frontpageBox&amp;demoid=25527">  <span style="vertical-align: 10%;"><img src="http://static.hltv.org//images/flag/dk.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Astralis</span> <br/> <span style="vertical-align: 90%;"><img src="http://static.hltv.org//images/flag/se.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">fnatic</span></a></div>			</div>
+				<div class="demobox" title="ESL Pro League Season 5 NA"><a href="/?pageid=28&amp;ref=frontpageBox&amp;demoid=25757">  <span style="vertical-align: 10%;"><img src="http://static.hltv.org//images/flag/us.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Rush</span> <br/> <span style="vertical-align: 90%;"><img src="http://static.hltv.org//images/flag/us.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Misfits</span></a></div><div class="demobox" title="ESL Pro League Season 5 NA"><a href="/?pageid=28&amp;ref=frontpageBox&amp;demoid=25756">  <span style="vertical-align: 10%;"><img src="http://static.hltv.org//images/flag/au.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Renegades</span> <br/> <span style="vertical-align: 90%;"><img src="http://static.hltv.org//images/flag/us.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">OpTic</span></a></div><div class="demobox" title="ESL Pro League Season 5 EU"><a href="/?pageid=28&amp;ref=frontpageBox&amp;demoid=25755">  <span style="vertical-align: 10%;"><img src="http://static.hltv.org//images/flag/cis.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Natus Vincere</span> <br/> <span style="vertical-align: 90%;"><img src="http://static.hltv.org//images/flag/pl.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Virtus.pro</span></a></div><div class="demobox" title="ESL Pro League Season 5 EU"><a href="/?pageid=28&amp;ref=frontpageBox&amp;demoid=25754">  <span style="vertical-align: 10%;"><img src="http://static.hltv.org//images/flag/dk.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Heroic</span> <br/> <span style="vertical-align: 90%;"><img src="http://static.hltv.org//images/flag/eu.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">FaZe</span></a></div><div class="demobox" title="ESEA Premier Season 24 Europe"><a href="/?pageid=28&amp;ref=frontpageBox&amp;demoid=25753">  <span style="vertical-align: 10%;"><img src="http://static.hltv.org//images/flag/fr.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">Vexed</span> <br/> <span style="vertical-align: 90%;"><img src="http://static.hltv.org//images/flag/de.gif" alt="" height="12" width="18" class=""/></span> <span style="vertical-align: top;">BIG</span></a></div>			</div>
 		</li>
 
 				<li id="boz4" class="box w1">
@@ -1170,23 +1172,23 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
 </style>
 
       <script>
-        liveScoreManager.forMatch(2307587, function (factory) {
-          factory.mapsWonFor(6978, function (score) {
-            jQuery("#mapsWon_2307587_6978").css('color', getStyle(score)).html(score.won);
-          }).mapsWonFor(7461, function (score) {
-            jQuery("#mapsWon_2307587_7461").css('color', getStyle(score)).html(score.won);
-          }).currentMapScoreFor(6978, function (score) {
-            jQuery("#livescore_2307587_6978").css('color', getStyle(score)).html(score.score);
-          }).currentMapScoreFor(7461, function (score) {
-            jQuery("#livescore_2307587_7461").css('color', getStyle(score)).html(score.score);
+        liveScoreManager.forMatch(2307840, function (factory) {
+          factory.mapsWonFor(6771, function (score) {
+            jQuery("#mapsWon_2307840_6771").css('color', getStyle(score)).html(score.won);
+          }).mapsWonFor(7081, function (score) {
+            jQuery("#mapsWon_2307840_7081").css('color', getStyle(score)).html(score.won);
+          }).currentMapScoreFor(6771, function (score) {
+            jQuery("#livescore_2307840_6771").css('color', getStyle(score)).html(score.score);
+          }).currentMapScoreFor(7081, function (score) {
+            jQuery("#livescore_2307840_7081").css('color', getStyle(score)).html(score.score);
           })
         })
       </script>
-      <div class="matchListDateBox">Sunday, January 29th 2017</div>  <div class="matchListBox event_2666">
+      <div class="matchListDateBox">Thursday, February 9th 2017</div>  <div class="matchListBox event_2682">
         <div class="matchListRow" style="height:40px;">
 
-      <div class="matchTimeCell matchTimeCellLive">LIVE</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=6978">Singularity          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/6978" class="matchTeamLogo middleAligned"/>
+      <div class="matchTimeCell matchTimeCellLive">LIVE</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=6771">ProGaming          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6771" class="matchTeamLogo middleAligned"/>
             </span></a>
       </div>
       
@@ -1196,81 +1198,268 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
           Best of 3
           </div>
           <div style="font-size:12px;float:left;clear:both;height:12px;width:100%;margin-bottom:4px;">
-              <span id="livescore_2307587_6978"></span> - <span id="livescore_2307587_7461"></span>
+              <span id="livescore_2307840_6771"></span> - <span id="livescore_2307840_7081"></span>
             </div>
           <div style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;">
-                      <span id="mapsWon_2307587_6978"></span>
+                      <span id="mapsWon_2307840_6771"></span>
             -
-            <span id="mapsWon_2307587_7461"></span>
+            <span id="mapsWon_2307840_7081"></span>
                       </div>
           </div>
         </div>
             <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=7461">
+        <a href="/?pageid=179&amp;teamid=7081">
             <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7461" class="matchTeamLogo middleAligned"/>
-            </span> CPH Flames</a>
+              <img src="http://static.hltv.org/images/team/logo/7081" class="matchTeamLogo middleAligned"/>
+            </span> Black Dragons</a>
       </div>
-      <div class="matchActionCell"><a href="/match/2307587-singularity-cph-flames-dust2dk-masters-2">Details</a></div>    </div>
+      <div class="matchActionCell"><a href="/match/2307840-progaming-black-dragons-liga-pro-gamersclub-jan-17">Details</a></div>    </div>
     <div style="clear:both;"></div>
   </div>
         <script>
-        liveScoreManager.forMatch(2307592, function (factory) {
-          factory.mapsWonFor(7566, function (score) {
-            jQuery("#mapsWon_2307592_7566").css('color', getStyle(score)).html(score.won);
-          }).mapsWonFor(7397, function (score) {
-            jQuery("#mapsWon_2307592_7397").css('color', getStyle(score)).html(score.won);
-          }).currentMapScoreFor(7566, function (score) {
-            jQuery("#livescore_2307592_7566").css('color', getStyle(score)).html(score.score);
-          }).currentMapScoreFor(7397, function (score) {
-            jQuery("#livescore_2307592_7397").css('color', getStyle(score)).html(score.score);
+        liveScoreManager.forMatch(2307841, function (factory) {
+          factory.mapsWonFor(6874, function (score) {
+            jQuery("#mapsWon_2307841_6874").css('color', getStyle(score)).html(score.won);
+          }).mapsWonFor(6947, function (score) {
+            jQuery("#mapsWon_2307841_6947").css('color', getStyle(score)).html(score.won);
+          }).currentMapScoreFor(6874, function (score) {
+            jQuery("#livescore_2307841_6874").css('color', getStyle(score)).html(score.score);
+          }).currentMapScoreFor(6947, function (score) {
+            jQuery("#livescore_2307841_6947").css('color', getStyle(score)).html(score.score);
           })
         })
       </script>
-        <div class="matchListBox event_2664">
+        <div class="matchListBox event_2682">
         <div class="matchListRow" style="height:40px;">
 
-      <div class="matchTimeCell matchTimeCellLive">LIVE</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7566">Playing Ducks          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7566" class="matchTeamLogo middleAligned"/>
+      <div class="matchTimeCell">Finished</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=6874">IDM          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6874" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+      
+        <div class="matchScoreCell" title="">
+          <div style="margin-top:-16px;">
+            <div style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              Best of 3
+            </div>
+            <div style="font-size:12px;float:left;clear:both;height:12px;width:100%;margin-bottom:4px;">
+                              <span id="mapsWon_2307841_6874"></span>
+                -
+                <span id="mapsWon_2307841_6947"></span>
+                            </div>
+          </div>
+        </div>
+              <div class="matchTeam2Cell">
+        <a href="/?pageid=179&amp;teamid=6947">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6947" class="matchTeamLogo middleAligned"/>
+            </span> TeamOne</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307841-idm-teamone-liga-pro-gamersclub-jan-17">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+        <script>
+        liveScoreManager.forMatch(2307769, function (factory) {
+          factory.currentMapScoreFor(7104, function (score) {
+            jQuery("#livescore_2307769_7104").css('color', getStyle(score)).html(score.score);
+          }).currentMapScoreFor(7557, function (score) {
+            jQuery("#livescore_2307769_7557").css('color', getStyle(score)).html(score.score);
+          })
+        })
+      </script>
+        <div class="matchListBox event_2639">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell">Finished</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7104">Rush          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7104" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+      
+        <div class="matchScoreCell" title="">
+          <div style="margin-top:-16px;">
+            <div style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              mirage
+            </div>
+            <div style="font-size:12px;float:left;clear:both;height:12px;width:100%;margin-bottom:4px;">
+                              <span id="livescore_2307769_7104"></span>
+                -
+                <span id="livescore_2307769_7557"></span>
+                            </div>
+          </div>
+        </div>
+              <div class="matchTeam2Cell">
+        <a href="/?pageid=179&amp;teamid=7557">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7557" class="matchTeamLogo middleAligned"/>
+            </span> Misfits</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307769-rush-misfits-esl-pro-league-season-5-na">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+        <script>
+        liveScoreManager.forMatch(2307768, function (factory) {
+          factory.currentMapScoreFor(6211, function (score) {
+            jQuery("#livescore_2307768_6211").css('color', getStyle(score)).html(score.score);
+          }).currentMapScoreFor(6615, function (score) {
+            jQuery("#livescore_2307768_6615").css('color', getStyle(score)).html(score.score);
+          })
+        })
+      </script>
+        <div class="matchListBox event_2639">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell">Finished</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=6211">Renegades          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6211" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+      
+        <div class="matchScoreCell" title="">
+          <div style="margin-top:-16px;">
+            <div style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              cobblestone
+            </div>
+            <div style="font-size:12px;float:left;clear:both;height:12px;width:100%;margin-bottom:4px;">
+                              <span id="livescore_2307768_6211"></span>
+                -
+                <span id="livescore_2307768_6615"></span>
+                            </div>
+          </div>
+        </div>
+              <div class="matchTeam2Cell">
+        <a href="/?pageid=362&amp;teamid=6615">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6615" class="matchTeamLogo middleAligned"/>
+            </span> OpTic</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307768-renegades-optic-esl-pro-league-season-5-na">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+        <script>
+        liveScoreManager.forMatch(2307845, function (factory) {
+          factory.currentMapScoreFor(4643, function (score) {
+            jQuery("#livescore_2307845_4643").css('color', getStyle(score)).html(score.score);
+          }).currentMapScoreFor(7591, function (score) {
+            jQuery("#livescore_2307845_7591").css('color', getStyle(score)).html(score.score);
+          })
+        })
+      </script>
+        <div class="matchListBox event_2673">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell">Finished</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=4643">Denial          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/4643" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+      
+        <div class="matchScoreCell" title="">
+          <div style="margin-top:-16px;">
+            <div style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              dust2
+            </div>
+            <div style="font-size:12px;float:left;clear:both;height:12px;width:100%;margin-bottom:4px;">
+                              <span id="livescore_2307845_4643"></span>
+                -
+                <span id="livescore_2307845_7591"></span>
+                            </div>
+          </div>
+        </div>
+              <div class="matchTeam2Cell">
+        <a href="/?pageid=179&amp;teamid=7591">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7591" class="matchTeamLogo middleAligned"/>
+            </span> Ambition</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307845-denial-ambition-esea-premier-season-24-north-america">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+        <script>
+        liveScoreManager.forMatch(2307770, function (factory) {
+          factory.currentMapScoreFor(6615, function (score) {
+            jQuery("#livescore_2307770_6615").css('color', getStyle(score)).html(score.score);
+          }).currentMapScoreFor(6211, function (score) {
+            jQuery("#livescore_2307770_6211").css('color', getStyle(score)).html(score.score);
+          })
+        })
+      </script>
+        <div class="matchListBox event_2639">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell matchTimeCellLive">LIVE</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=6615">OpTic          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6615" class="matchTeamLogo middleAligned"/>
             </span></a>
       </div>
       
         <div class="matchScoreCell" title="">
           <div style="margin-top:-16px;">
           <div style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-          Best of 3
+          dust2
           </div>
           <div style="font-size:12px;float:left;clear:both;height:12px;width:100%;margin-bottom:4px;">
-              <span id="livescore_2307592_7566"></span> - <span id="livescore_2307592_7397"></span>
+              <span id="livescore_2307770_6615"></span> - <span id="livescore_2307770_6211"></span>
             </div>
           <div style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;">
-                      <span id="mapsWon_2307592_7566"></span>
-            -
-            <span id="mapsWon_2307592_7397"></span>
-                      </div>
+                    </div>
           </div>
         </div>
             <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=7397">
+        <a href="/?pageid=362&amp;teamid=6211">
             <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7397" class="matchTeamLogo middleAligned"/>
-            </span> Outlaws</a>
+              <img src="http://static.hltv.org/images/team/logo/6211" class="matchTeamLogo middleAligned"/>
+            </span> Renegades</a>
       </div>
-      <div class="matchActionCell"><a href="/match/2307592-playing-ducks-outlaws-cevo-main-season-11-europe">Details</a></div>    </div>
+      <div class="matchActionCell"><a href="/match/2307770-optic-renegades-esl-pro-league-season-5-na">Details</a></div>    </div>
     <div style="clear:both;"></div>
   </div>
-  <br/><div class="matchListDateBox">Monday, January 30th 2017</div>  <div class="matchListBox event_2665">
+        <script>
+        liveScoreManager.forMatch(2307771, function (factory) {
+          factory.currentMapScoreFor(7557, function (score) {
+            jQuery("#livescore_2307771_7557").css('color', getStyle(score)).html(score.score);
+          }).currentMapScoreFor(7104, function (score) {
+            jQuery("#livescore_2307771_7104").css('color', getStyle(score)).html(score.score);
+          })
+        })
+      </script>
+        <div class="matchListBox event_2639">
         <div class="matchListRow" style="height:40px;">
 
-      <div class="matchTimeCell" style="font-weight: bold;">03:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7574">Royal Flush Seven          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7574" class="matchTeamLogo middleAligned"/>
+      <div class="matchTimeCell matchTimeCellLive">LIVE</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7557">Misfits          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7557" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+      
+        <div class="matchScoreCell" title="">
+          <div style="margin-top:-16px;">
+          <div style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+          cobblestone
+          </div>
+          <div style="font-size:12px;float:left;clear:both;height:12px;width:100%;margin-bottom:4px;">
+              <span id="livescore_2307771_7557"></span> - <span id="livescore_2307771_7104"></span>
+            </div>
+          <div style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;">
+                    </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=179&amp;teamid=7104">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7104" class="matchTeamLogo middleAligned"/>
+            </span> Rush</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307771-misfits-rush-esl-pro-league-season-5-na">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2673">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">03:30</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7592">Enigma6          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7592" class="matchTeamLogo middleAligned"/>
             </span></a>
       </div>
               <div class="matchScoreCell">
           <div style="margin-top:-16px;">
             <div
                 style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-              Best of 3
+              dust2
             </div>
             <div style="float:left;clear:both;height:12px;width:100%;">
               vs
@@ -1278,26 +1467,242 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
           </div>
         </div>
             <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=6171">
+        <a href="/?pageid=179&amp;teamid=7558">
             <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7558" class="matchTeamLogo middleAligned"/>
+            </span> Ajax</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307846-enigma6-ajax-esea-premier-season-24-north-america">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2673">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">04:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=6301">Splyce          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6301" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              nuke
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=179&amp;teamid=7575">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7575" class="matchTeamLogo middleAligned"/>
+            </span> EnVision</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307852-splyce-envision-esea-premier-season-24-north-america">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2673">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">04:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7220">Muffin Lightning          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7220" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              dust2
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=179&amp;teamid=7217">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7217" class="matchTeamLogo middleAligned"/>
+            </span> subtLe</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307849-muffin-lightning-subtle-esea-premier-season-24-north-america">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2673">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">04:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=6057">Mostly Harmless          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6057" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              dust2
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=179&amp;teamid=6431">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6431" class="matchTeamLogo middleAligned"/>
+            </span> Eanix</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307850-mostly-harmless-eanix-esea-premier-season-24-north-america">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2639">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">04:20</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=6736">Selfless          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6736" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              mirage
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=362&amp;teamid=5974">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/5974" class="matchTeamLogo middleAligned"/>
+            </span> CLG</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307773-selfless-clg-esl-pro-league-season-5-na">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2639">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">04:20</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=7010">Immortals          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7010" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              dust2
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=362&amp;teamid=6290">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6290" class="matchTeamLogo middleAligned"/>
+            </span> Luminosity</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307772-immortals-luminosity-esl-pro-league-season-5-na">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2673">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">04:30</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7591">Ambition          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7591" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              dust2
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=179&amp;teamid=6710">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6710" class="matchTeamLogo middleAligned"/>
+            </span> Bee's Money Crew</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307847-ambition-bees-money-crew-esea-premier-season-24-north-america">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2673">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">05:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=5956">QuetzaL          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/5956" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              dust2
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=179&amp;teamid=6057">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6057" class="matchTeamLogo middleAligned"/>
+            </span> Mostly Harmless</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307851-quetzal-mostly-harmless-esea-premier-season-24-north-america">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2639">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">05:30</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=6290">Luminosity          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6290" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              overpass
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=362&amp;teamid=7010">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7010" class="matchTeamLogo middleAligned"/>
+            </span> Immortals</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307774-luminosity-immortals-esl-pro-league-season-5-na">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2673">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">05:30</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=6171">SetToDestroyX          <span style="padding-left:15px;">
               <img src="http://static.hltv.org/images/team/logo/6171" class="matchTeamLogo middleAligned"/>
-            </span> SetToDestroyX</a>
-      </div>
-      <div class="matchActionCell"><a href="/match/2307614-royal-flush-seven-settodestroyx-cevo-main-season-11-north-america">Details</a></div>    </div>
-    <div style="clear:both;"></div>
-  </div>
-    <div class="matchListBox event_2667">
-        <div class="matchListRow" style="height:40px;">
-
-      <div class="matchTimeCell" style="font-weight: bold;">15:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=6570">DEEZ NUTS          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/6570" class="matchTeamLogo middleAligned"/>
             </span></a>
       </div>
               <div class="matchScoreCell">
           <div style="margin-top:-16px;">
             <div
                 style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-              Best of 3
+              dust2
             </div>
             <div style="float:left;clear:both;height:12px;width:100%;">
               vs
@@ -1305,26 +1710,26 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
           </div>
         </div>
             <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=7018">
+        <a href="/?pageid=179&amp;teamid=6987">
             <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7018" class="matchTeamLogo middleAligned"/>
-            </span> DarkPassage</a>
+              <img src="http://static.hltv.org/images/team/logo/6987" class="matchTeamLogo middleAligned"/>
+            </span> Eclipse</a>
       </div>
-      <div class="matchActionCell"><a href="/match/2307621-deez-nuts-darkpassage-hellcase-cup-2-closed-qualifier">Details</a></div>    </div>
+      <div class="matchActionCell"><a href="/match/2307848-settodestroyx-eclipse-esea-premier-season-24-north-america">Details</a></div>    </div>
     <div style="clear:both;"></div>
   </div>
-    <div class="matchListBox event_2670">
+    <div class="matchListBox event_2639">
         <div class="matchListRow" style="height:40px;">
 
-      <div class="matchTimeCell" style="font-weight: bold;">16:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7182">zARLANS          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7182" class="matchTeamLogo middleAligned"/>
+      <div class="matchTimeCell" style="font-weight: bold;">05:30</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=5974">CLG          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/5974" class="matchTeamLogo middleAligned"/>
             </span></a>
       </div>
               <div class="matchScoreCell">
           <div style="margin-top:-16px;">
             <div
                 style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-              Best of 3
+              cobblestone
             </div>
             <div style="float:left;clear:both;height:12px;width:100%;">
               vs
@@ -1332,80 +1737,26 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
           </div>
         </div>
             <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=7583">
+        <a href="/?pageid=179&amp;teamid=6736">
             <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7583" class="matchTeamLogo middleAligned"/>
-            </span> Vexilla</a>
+              <img src="http://static.hltv.org/images/team/logo/6736" class="matchTeamLogo middleAligned"/>
+            </span> Selfless</a>
       </div>
-      <div class="matchActionCell"><a href="/match/2307594-zarlans-vexilla-log-cup-2017">Details</a></div>    </div>
+      <div class="matchActionCell"><a href="/match/2307775-clg-selfless-esl-pro-league-season-5-na">Details</a></div>    </div>
     <div style="clear:both;"></div>
   </div>
-    <div class="matchListBox event_2671">
+    <div class="matchListBox event_2659">
         <div class="matchListRow" style="height:40px;">
 
-      <div class="matchTimeCell" style="font-weight: bold;">18:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7532">BIG          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7532" class="matchTeamLogo middleAligned"/>
-            </span></a>
-      </div>
-              <div class="matchScoreCell">
-          <div style="margin-top:-16px;">
-            <div
-                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-              Best of 1
-            </div>
-            <div style="float:left;clear:both;height:12px;width:100%;">
-              vs
-            </div>
-          </div>
-        </div>
-            <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=7331">
-            <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7331" class="matchTeamLogo middleAligned"/>
-            </span> iGame.com</a>
-      </div>
-      <div class="matchActionCell"><a href="/match/2307615-big-igamecom-igamecom-winter-invitational">Details</a></div>    </div>
-    <div style="clear:both;"></div>
-  </div>
-    <div class="matchListBox event_2667">
-        <div class="matchListRow" style="height:40px;">
-
-      <div class="matchTimeCell" style="font-weight: bold;">18:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7339">KPI          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7339" class="matchTeamLogo middleAligned"/>
-            </span></a>
-      </div>
-              <div class="matchScoreCell">
-          <div style="margin-top:-16px;">
-            <div
-                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-              Best of 3
-            </div>
-            <div style="float:left;clear:both;height:12px;width:100%;">
-              vs
-            </div>
-          </div>
-        </div>
-            <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=6375">
-            <span style="padding-right:15px;">
+      <div class="matchTimeCell" style="font-weight: bold;">12:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=6375">Vexed          <span style="padding-left:15px;">
               <img src="http://static.hltv.org/images/team/logo/6375" class="matchTeamLogo middleAligned"/>
-            </span> Vexed</a>
-      </div>
-      <div class="matchActionCell"><a href="/match/2307622-kpi-vexed-hellcase-cup-2-closed-qualifier">Details</a></div>    </div>
-    <div style="clear:both;"></div>
-  </div>
-    <div class="matchListBox event_2671">
-        <div class="matchListRow" style="height:40px;">
-
-      <div class="matchTimeCell" style="font-weight: bold;">19:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7532">BIG          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7532" class="matchTeamLogo middleAligned"/>
             </span></a>
       </div>
               <div class="matchScoreCell">
           <div style="margin-top:-16px;">
             <div
                 style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-              Best of 1
+              Best of 3
             </div>
             <div style="float:left;clear:both;height:12px;width:100%;">
               vs
@@ -1413,248 +1764,26 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
           </div>
         </div>
             <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=4803">
+        <a href="/?pageid=179&amp;teamid=7318">
             <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/4803" class="matchTeamLogo middleAligned"/>
-            </span> iNation</a>
+              <img src="http://static.hltv.org/images/team/logo/7318" class="matchTeamLogo middleAligned"/>
+            </span> Norse</a>
       </div>
-      <div class="matchActionCell"><a href="/match/2307616-big-ination-igamecom-winter-invitational">Details</a></div>    </div>
+      <div class="matchActionCell"><a href="/match/2307807-vexed-norse-hellcase-cup-2">Details</a></div>    </div>
     <div style="clear:both;"></div>
   </div>
     <div class="matchListBox event_2670">
         <div class="matchListRow" style="height:40px;">
 
-      <div class="matchTimeCell" style="font-weight: bold;">19:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=4610">RuSh3D          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/4610" class="matchTeamLogo middleAligned"/>
-            </span></a>
-      </div>
-              <div class="matchScoreCell">
-          <div style="margin-top:-16px;">
-            <div
-                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-              Best of 3
-            </div>
-            <div style="float:left;clear:both;height:12px;width:100%;">
-              vs
-            </div>
-          </div>
-        </div>
-            <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=6215">
-            <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/6215" class="matchTeamLogo middleAligned"/>
-            </span> LOG</a>
-      </div>
-      <div class="matchActionCell"><a href="/match/2307593-rush3d-log-log-cup-2017">Details</a></div>    </div>
-    <div style="clear:both;"></div>
-  </div>
-    <div class="matchListBox event_2645">
-        <div class="matchListRow" style="height:40px;">
-
-      <div class="matchTimeCell" style="font-weight: bold;">20:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=6855">Fragsters          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/6855" class="matchTeamLogo middleAligned"/>
-            </span></a>
-      </div>
-              <div class="matchScoreCell">
-          <div style="margin-top:-16px;">
-            <div
-                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-              Best of 3
-            </div>
-            <div style="float:left;clear:both;height:12px;width:100%;">
-              vs
-            </div>
-          </div>
-        </div>
-            <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=7461">
-            <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7461" class="matchTeamLogo middleAligned"/>
-            </span> CPH Flames</a>
-      </div>
-      <div class="matchActionCell"><a href="/match/2307549-fragsters-cph-flames-dolphin-cs-shoot-em-up-2">Details</a></div>    </div>
-    <div style="clear:both;"></div>
-  </div>
-    <div class="matchListBox event_2671">
-        <div class="matchListRow" style="height:40px;">
-
-      <div class="matchTimeCell" style="font-weight: bold;">20:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7331">iGame.com          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7331" class="matchTeamLogo middleAligned"/>
-            </span></a>
-      </div>
-              <div class="matchScoreCell">
-          <div style="margin-top:-16px;">
-            <div
-                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-              Best of 1
-            </div>
-            <div style="float:left;clear:both;height:12px;width:100%;">
-              vs
-            </div>
-          </div>
-        </div>
-            <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=4803">
-            <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/4803" class="matchTeamLogo middleAligned"/>
-            </span> iNation</a>
-      </div>
-      <div class="matchActionCell"><a href="/match/2307617-igamecom-ination-igamecom-winter-invitational">Details</a></div>    </div>
-    <div style="clear:both;"></div>
-  </div>
-    <div class="matchListBox event_2667">
-        <div class="matchListRow" style="height:40px;">
-
-      <div class="matchTimeCell" style="font-weight: bold;">21:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7397">Outlaws          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7397" class="matchTeamLogo middleAligned"/>
-            </span></a>
-      </div>
-              <div class="matchScoreCell">
-          <div style="margin-top:-16px;">
-            <div
-                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-              Best of 3
-            </div>
-            <div style="float:left;clear:both;height:12px;width:100%;">
-              vs
-            </div>
-          </div>
-        </div>
-            <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=7308">
-            <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7308" class="matchTeamLogo middleAligned"/>
-            </span> Epsilon Hype</a>
-      </div>
-      <div class="matchActionCell"><a href="/match/2307623-outlaws-epsilon-hype-hellcase-cup-2-closed-qualifier">Details</a></div>    </div>
-    <div style="clear:both;"></div>
-  </div>
-  <br/><div class="matchListDateBox">Tuesday, January 31st 2017</div>  <div class="matchListBox event_2669">
-        <div class="matchListRow" style="height:40px;">
-
-      <div class="matchTimeCell" style="font-weight: bold;">06:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=6681">Risky          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/6681" class="matchTeamLogo middleAligned"/>
-            </span></a>
-      </div>
-              <div class="matchScoreCell">
-          <div style="margin-top:-16px;">
-            <div
-                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-              Best of 3
-            </div>
-            <div style="float:left;clear:both;height:12px;width:100%;">
-              vs
-            </div>
-          </div>
-        </div>
-            <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=7581">
-            <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7581" class="matchTeamLogo middleAligned"/>
-            </span> Absolute</a>
-      </div>
-      <div class="matchActionCell"><a href="/match/2307590-risky-absolute-zen-esports-network-east-asia-qualifier">Details</a></div>    </div>
-    <div style="clear:both;"></div>
-  </div>
-    <div class="matchListBox event_2669">
-        <div class="matchListRow" style="height:40px;">
-
-      <div class="matchTimeCell" style="font-weight: bold;">09:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7278">YETTI          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7278" class="matchTeamLogo middleAligned"/>
-            </span></a>
-      </div>
-              <div class="matchScoreCell">
-          <div style="margin-top:-16px;">
-            <div
-                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-              Best of 3
-            </div>
-            <div style="float:left;clear:both;height:12px;width:100%;">
-              vs
-            </div>
-          </div>
-        </div>
-            <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=7354">
-            <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7354" class="matchTeamLogo middleAligned"/>
-            </span> MVP PK</a>
-      </div>
-      <div class="matchActionCell"><a href="/match/2307591-yetti-mvp-pk-zen-esports-network-east-asia-qualifier">Details</a></div>    </div>
-    <div style="clear:both;"></div>
-  </div>
-    <div class="matchListBox event_2669">
-        <div class="matchListRow" style="height:40px;">
-
-      <div class="matchTimeCell" style="font-weight: bold;">12:00</div><div style="text-align: center;width: 80%;float: left;">ZEN East-Asia Qual - Grand Final</div><div class="matchActionCell"><a href="/match/2307596-zen-east-asia-qual-grand-final-zen-esports-network-east-asia-qualifier">Details</a> </div></div><div style="clear:both;"></div></div>  <div class="matchListBox event_2667">
-        <div class="matchListRow" style="height:40px;">
-
-      <div class="matchTimeCell" style="font-weight: bold;">15:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=4610">RuSh3D          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/4610" class="matchTeamLogo middleAligned"/>
-            </span></a>
-      </div>
-              <div class="matchScoreCell">
-          <div style="margin-top:-16px;">
-            <div
-                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-              Best of 3
-            </div>
-            <div style="float:left;clear:both;height:12px;width:100%;">
-              vs
-            </div>
-          </div>
-        </div>
-            <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=6896">
-            <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/6896" class="matchTeamLogo middleAligned"/>
-            </span> PRIDE</a>
-      </div>
-      <div class="matchActionCell"><a href="/match/2307624-rush3d-pride-hellcase-cup-2-closed-qualifier">Details</a></div>    </div>
-    <div style="clear:both;"></div>
-  </div>
-    <div class="matchListBox event_2670">
-        <div class="matchListRow" style="height:40px;">
-
-      <div class="matchTimeCell" style="font-weight: bold;">16:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7145">Tengri          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7145" class="matchTeamLogo middleAligned"/>
-            </span></a>
-      </div>
-              <div class="matchScoreCell">
-          <div style="margin-top:-16px;">
-            <div
-                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-              Best of 3
-            </div>
-            <div style="float:left;clear:both;height:12px;width:100%;">
-              vs
-            </div>
-          </div>
-        </div>
-            <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=7523">
-            <span style="padding-right:15px;">
+      <div class="matchTimeCell" style="font-weight: bold;">14:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7523">1337          <span style="padding-left:15px;">
               <img src="http://static.hltv.org/images/team/logo/7523" class="matchTeamLogo middleAligned"/>
-            </span> 1337</a>
-      </div>
-      <div class="matchActionCell"><a href="/match/2307595-tengri-1337-log-cup-2017">Details</a></div>    </div>
-    <div style="clear:both;"></div>
-  </div>
-    <div class="matchListBox event_2667">
-        <div class="matchListRow" style="height:40px;">
-
-      <div class="matchTimeCell" style="font-weight: bold;">18:00</div><div style="text-align: center;width: 80%;float: left;">Hellcase Qualifier Semi-final #1</div><div class="matchActionCell"><a href="/match/2307625-hellcase-qualifier-semi-final-1-hellcase-cup-2-closed-qualifier">Details</a> </div></div><div style="clear:both;"></div></div>  <div class="matchListBox event_2671">
-        <div class="matchListRow" style="height:40px;">
-
-      <div class="matchTimeCell" style="font-weight: bold;">18:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=4688">Epsilon          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/4688" class="matchTeamLogo middleAligned"/>
             </span></a>
       </div>
               <div class="matchScoreCell">
           <div style="margin-top:-16px;">
             <div
                 style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-              Best of 1
+              Best of 3
             </div>
             <div style="float:left;clear:both;height:12px;width:100%;">
               vs
@@ -1662,19 +1791,19 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
           </div>
         </div>
             <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=7169">
+        <a href="/?pageid=179&amp;teamid=4610">
             <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7169" class="matchTeamLogo middleAligned"/>
-            </span> fnatic Academy</a>
+              <img src="http://static.hltv.org/images/team/logo/4610" class="matchTeamLogo middleAligned"/>
+            </span> RuSh3D</a>
       </div>
-      <div class="matchActionCell"><a href="/match/2307618-epsilon-fnatic-academy-igamecom-winter-invitational">Details</a></div>    </div>
+      <div class="matchActionCell"><a href="/match/2307843-1337-rush3d-log-cup-2017">Details</a></div>    </div>
     <div style="clear:both;"></div>
   </div>
-    <div class="matchListBox event_2645">
+    <div class="matchListBox event_2685">
         <div class="matchListRow" style="height:40px;">
 
-      <div class="matchTimeCell" style="font-weight: bold;">18:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7556">Tricksters          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7556" class="matchTeamLogo middleAligned"/>
+      <div class="matchTimeCell" style="font-weight: bold;">14:30</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=4908">K29          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/4908" class="matchTeamLogo middleAligned"/>
             </span></a>
       </div>
               <div class="matchScoreCell">
@@ -1694,14 +1823,14 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
               <img src="http://static.hltv.org/images/team/logo/7182" class="matchTeamLogo middleAligned"/>
             </span> zARLANS</a>
       </div>
-      <div class="matchActionCell"><a href="/match/2307588-tricksters-zarlans-dolphin-cs-shoot-em-up-2">Details</a></div>    </div>
+      <div class="matchActionCell"><a href="/match/2307829-k29-zarlans-binary-dragons-cup-season-3">Details</a></div>    </div>
     <div style="clear:both;"></div>
   </div>
-    <div class="matchListBox event_2670">
+    <div class="matchListBox event_2659">
         <div class="matchListRow" style="height:40px;">
 
-      <div class="matchTimeCell" style="font-weight: bold;">19:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7264">spray'n'pray          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7264" class="matchTeamLogo middleAligned"/>
+      <div class="matchTimeCell" style="font-weight: bold;">15:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=7157">Rogue          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7157" class="matchTeamLogo middleAligned"/>
             </span></a>
       </div>
               <div class="matchScoreCell">
@@ -1716,73 +1845,19 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
           </div>
         </div>
             <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=7489">
+        <a href="/?pageid=179&amp;teamid=6375">
             <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7489" class="matchTeamLogo middleAligned"/>
-            </span> EPG</a>
+              <img src="http://static.hltv.org/images/team/logo/6375" class="matchTeamLogo middleAligned"/>
+            </span> Vexed</a>
       </div>
-      <div class="matchActionCell"><a href="/match/2307627-spraynpray-epg-log-cup-2017">Details</a></div>    </div>
+      <div class="matchActionCell"><a href="/match/2307838-rogue-vexed-hellcase-cup-2">Details</a></div>    </div>
     <div style="clear:both;"></div>
   </div>
-    <div class="matchListBox event_2671">
+    <div class="matchListBox event_2685">
         <div class="matchListRow" style="height:40px;">
 
-      <div class="matchTimeCell" style="font-weight: bold;">19:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=4688">Epsilon          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/4688" class="matchTeamLogo middleAligned"/>
-            </span></a>
-      </div>
-              <div class="matchScoreCell">
-          <div style="margin-top:-16px;">
-            <div
-                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-              Best of 1
-            </div>
-            <div style="float:left;clear:both;height:12px;width:100%;">
-              vs
-            </div>
-          </div>
-        </div>
-            <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=7318">
-            <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7318" class="matchTeamLogo middleAligned"/>
-            </span> Norse</a>
-      </div>
-      <div class="matchActionCell"><a href="/match/2307619-epsilon-norse-igamecom-winter-invitational">Details</a></div>    </div>
-    <div style="clear:both;"></div>
-  </div>
-    <div class="matchListBox event_2671">
-        <div class="matchListRow" style="height:40px;">
-
-      <div class="matchTimeCell" style="font-weight: bold;">20:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7169">fnatic Academy          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7169" class="matchTeamLogo middleAligned"/>
-            </span></a>
-      </div>
-              <div class="matchScoreCell">
-          <div style="margin-top:-16px;">
-            <div
-                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-              Best of 1
-            </div>
-            <div style="float:left;clear:both;height:12px;width:100%;">
-              vs
-            </div>
-          </div>
-        </div>
-            <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=7318">
-            <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7318" class="matchTeamLogo middleAligned"/>
-            </span> Norse</a>
-      </div>
-      <div class="matchActionCell"><a href="/match/2307620-fnatic-academy-norse-igamecom-winter-invitational">Details</a></div>    </div>
-    <div style="clear:both;"></div>
-  </div>
-    <div class="matchListBox event_2645">
-        <div class="matchListRow" style="height:40px;">
-
-      <div class="matchTimeCell" style="font-weight: bold;">20:30</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=6889">E-Corp          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/6889" class="matchTeamLogo middleAligned"/>
+      <div class="matchTimeCell" style="font-weight: bold;">17:30</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7566">Playing Ducks          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7566" class="matchTeamLogo middleAligned"/>
             </span></a>
       </div>
               <div class="matchScoreCell">
@@ -1797,29 +1872,26 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
           </div>
         </div>
             <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=7551">
+        <a href="/?pageid=179&amp;teamid=7182">
             <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7551" class="matchTeamLogo middleAligned"/>
-            </span> Tricked Academy</a>
+              <img src="http://static.hltv.org/images/team/logo/7182" class="matchTeamLogo middleAligned"/>
+            </span> zARLANS</a>
       </div>
-      <div class="matchActionCell"><a href="/match/2307628-e-corp-tricked-academy-dolphin-cs-shoot-em-up-2">Details</a></div>    </div>
+      <div class="matchActionCell"><a href="/match/2307830-playing-ducks-zarlans-binary-dragons-cup-season-3">Details</a></div>    </div>
     <div style="clear:both;"></div>
   </div>
-    <div class="matchListBox event_2667">
+    <div class="matchListBox event_2638">
         <div class="matchListRow" style="height:40px;">
 
-      <div class="matchTimeCell" style="font-weight: bold;">21:00</div><div style="text-align: center;width: 80%;float: left;">Hellcase Qualifier Semi-final #2</div><div class="matchActionCell"><a href="/match/2307626-hellcase-qualifier-semi-final-2-hellcase-cup-2-closed-qualifier">Details</a> </div></div><div style="clear:both;"></div></div><br/><div class="matchListDateBox">Sunday, February 5th 2017</div>  <div class="matchListBox event_2658">
-        <div class="matchListRow" style="height:40px;">
-
-      <div class="matchTimeCell" style="font-weight: bold;">09:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=4791">Immunity          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/4791" class="matchTeamLogo middleAligned"/>
+      <div class="matchTimeCell" style="font-weight: bold;">19:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=5378">Virtus.pro          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/5378" class="matchTeamLogo middleAligned"/>
             </span></a>
       </div>
               <div class="matchScoreCell">
           <div style="margin-top:-16px;">
             <div
                 style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-              Best of 2
+              overpass
             </div>
             <div style="float:left;clear:both;height:12px;width:100%;">
               vs
@@ -1827,26 +1899,26 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
           </div>
         </div>
             <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=5607">
+        <a href="/?pageid=362&amp;teamid=6134">
             <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/5607" class="matchTeamLogo middleAligned"/>
-            </span> SYF</a>
+              <img src="http://static.hltv.org/images/team/logo/6134" class="matchTeamLogo middleAligned"/>
+            </span> Kinguin</a>
       </div>
-      <div class="matchActionCell"><a href="/match/2307597-immunity-syf-acer-cybergamer-premier-league-autumn-2017">Details</a></div>    </div>
+      <div class="matchActionCell"><a href="/match/2307762-virtuspro-kinguin-esl-pro-league-season-5-eu">Details</a></div>    </div>
     <div style="clear:both;"></div>
   </div>
-    <div class="matchListBox event_2658">
+    <div class="matchListBox event_2638">
         <div class="matchListRow" style="height:40px;">
 
-      <div class="matchTimeCell" style="font-weight: bold;">11:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=6010">Chiefs          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/6010" class="matchTeamLogo middleAligned"/>
+      <div class="matchTimeCell" style="font-weight: bold;">19:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=5991">EnVyUs          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/5991" class="matchTeamLogo middleAligned"/>
             </span></a>
       </div>
               <div class="matchScoreCell">
           <div style="margin-top:-16px;">
             <div
                 style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-              Best of 2
+              train
             </div>
             <div style="float:left;clear:both;height:12px;width:100%;">
               vs
@@ -1854,19 +1926,100 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
           </div>
         </div>
             <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=6468">
+        <a href="/?pageid=362&amp;teamid=6667">
             <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/6468" class="matchTeamLogo middleAligned"/>
-            </span> Legacy</a>
+              <img src="http://static.hltv.org/images/team/logo/6667" class="matchTeamLogo middleAligned"/>
+            </span> FaZe</a>
       </div>
-      <div class="matchActionCell"><a href="/match/2307598-chiefs-legacy-acer-cybergamer-premier-league-autumn-2017">Details</a></div>    </div>
+      <div class="matchActionCell"><a href="/match/2307760-envyus-faze-esl-pro-league-season-5-eu">Details</a></div>    </div>
     <div style="clear:both;"></div>
   </div>
     <div class="matchListBox event_2645">
         <div class="matchListRow" style="height:40px;">
 
-      <div class="matchTimeCell" style="font-weight: bold;">19:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=4591">Wizards          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/4591" class="matchTeamLogo middleAligned"/>
+      <div class="matchTimeCell" style="font-weight: bold;">19:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7461">CPH Flames          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7461" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              Best of 3
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=179&amp;teamid=7018">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7018" class="matchTeamLogo middleAligned"/>
+            </span> DarkPassage</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307671-cph-flames-darkpassage-dolphin-cs-shoot-em-up-2">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2638">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">20:10</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=6667">FaZe          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6667" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              dust2
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=362&amp;teamid=5991">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/5991" class="matchTeamLogo middleAligned"/>
+            </span> EnVyUs</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307761-faze-envyus-esl-pro-league-season-5-eu">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2638">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">20:10</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=6134">Kinguin          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6134" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              cobblestone
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=362&amp;teamid=5378">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/5378" class="matchTeamLogo middleAligned"/>
+            </span> Virtus.pro</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307763-kinguin-virtuspro-esl-pro-league-season-5-eu">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2685">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">20:30</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=4908">K29          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/4908" class="matchTeamLogo middleAligned"/>
             </span></a>
       </div>
               <div class="matchScoreCell">
@@ -1886,21 +2039,21 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
               <img src="http://static.hltv.org/images/team/logo/7566" class="matchTeamLogo middleAligned"/>
             </span> Playing Ducks</a>
       </div>
-      <div class="matchActionCell"><a href="/match/2307589-wizards-playing-ducks-dolphin-cs-shoot-em-up-2">Details</a></div>    </div>
+      <div class="matchActionCell"><a href="/match/2307831-k29-playing-ducks-binary-dragons-cup-season-3">Details</a></div>    </div>
     <div style="clear:both;"></div>
   </div>
-  <br/><div class="matchListDateBox">Monday, February 6th 2017</div>  <div class="matchListBox event_2658">
+    <div class="matchListBox event_2638">
         <div class="matchListRow" style="height:40px;">
 
-      <div class="matchTimeCell" style="font-weight: bold;">09:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=6922">Corvidae          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/6922" class="matchTeamLogo middleAligned"/>
+      <div class="matchTimeCell" style="font-weight: bold;">21:20</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=4674">LDLC          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/4674" class="matchTeamLogo middleAligned"/>
             </span></a>
       </div>
               <div class="matchScoreCell">
           <div style="margin-top:-16px;">
             <div
                 style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-              Best of 2
+              nuke
             </div>
             <div style="float:left;clear:both;height:12px;width:100%;">
               vs
@@ -1908,26 +2061,26 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
           </div>
         </div>
             <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=5293">
+        <a href="/?pageid=362&amp;teamid=5310">
             <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/5293" class="matchTeamLogo middleAligned"/>
-            </span> AVANT GARDE</a>
+              <img src="http://static.hltv.org/images/team/logo/5310" class="matchTeamLogo middleAligned"/>
+            </span> HellRaisers</a>
       </div>
-      <div class="matchActionCell"><a href="/match/2307599-corvidae-avant-garde-acer-cybergamer-premier-league-autumn-2017">Details</a></div>    </div>
+      <div class="matchActionCell"><a href="/match/2307766-ldlc-hellraisers-esl-pro-league-season-5-eu">Details</a></div>    </div>
     <div style="clear:both;"></div>
   </div>
-    <div class="matchListBox event_2658">
+    <div class="matchListBox event_2638">
         <div class="matchListRow" style="height:40px;">
 
-      <div class="matchTimeCell" style="font-weight: bold;">11:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=6642">Alpha Sydney          <span style="padding-left:15px;">
-              <img src="http://static.hltv.org/images/team/logo/6642" class="matchTeamLogo middleAligned"/>
+      <div class="matchTimeCell" style="font-weight: bold;">21:20</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=5991">EnVyUs          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/5991" class="matchTeamLogo middleAligned"/>
             </span></a>
       </div>
               <div class="matchScoreCell">
           <div style="margin-top:-16px;">
             <div
                 style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
-              Best of 2
+              cache
             </div>
             <div style="float:left;clear:both;height:12px;width:100%;">
               vs
@@ -1935,12 +2088,525 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
           </div>
         </div>
             <div class="matchTeam2Cell">
-        <a href="/?pageid=179&amp;teamid=7381">
+        <a href="/?pageid=362&amp;teamid=5995">
             <span style="padding-right:15px;">
-              <img src="http://static.hltv.org/images/team/logo/7381" class="matchTeamLogo middleAligned"/>
-            </span> Cypher</a>
+              <img src="http://static.hltv.org/images/team/logo/5995" class="matchTeamLogo middleAligned"/>
+            </span> G2</a>
       </div>
-      <div class="matchActionCell"><a href="/match/2307600-alpha-sydney-cypher-acer-cybergamer-premier-league-autumn-2017">Details</a></div>    </div>
+      <div class="matchActionCell"><a href="/match/2307764-envyus-g2-esl-pro-league-season-5-eu">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2638">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">22:30</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=5310">HellRaisers          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/5310" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              cache
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=362&amp;teamid=4674">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/4674" class="matchTeamLogo middleAligned"/>
+            </span> LDLC</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307767-hellraisers-ldlc-esl-pro-league-season-5-eu">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2638">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">22:30</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=5995">G2          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/5995" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              cobblestone
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=362&amp;teamid=5991">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/5991" class="matchTeamLogo middleAligned"/>
+            </span> EnVyUs</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307765-g2-envyus-esl-pro-league-season-5-eu">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2672">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">23:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7169">fnatic Academy          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7169" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              nuke
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=179&amp;teamid=7583">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7583" class="matchTeamLogo middleAligned"/>
+            </span> Vexilla</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307836-fnatic-academy-vexilla-esea-premier-season-24-europe">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+  <br/><div class="matchListDateBox">Friday, February 10th 2017</div>  <div class="matchListBox event_2639">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">02:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=5974">CLG          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/5974" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              cache
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=179&amp;teamid=6386">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6386" class="matchTeamLogo middleAligned"/>
+            </span> Winterfox</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307778-clg-winterfox-esl-pro-league-season-5-na">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2639">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">02:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7557">Misfits          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7557" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              cobblestone
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=362&amp;teamid=5973">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/5973" class="matchTeamLogo middleAligned"/>
+            </span> Liquid</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307776-misfits-liquid-esl-pro-league-season-5-na">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2639">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">03:10</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=5973">Liquid          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/5973" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              cache
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=179&amp;teamid=7557">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7557" class="matchTeamLogo middleAligned"/>
+            </span> Misfits</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307777-liquid-misfits-esl-pro-league-season-5-na">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2639">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">03:10</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=6386">Winterfox          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6386" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              mirage
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=362&amp;teamid=5974">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/5974" class="matchTeamLogo middleAligned"/>
+            </span> CLG</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307779-winterfox-clg-esl-pro-league-season-5-na">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2639">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">04:20</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=5005">compLexity          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/5005" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              overpass
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=362&amp;teamid=6137">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6137" class="matchTeamLogo middleAligned"/>
+            </span> SK</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307782-complexity-sk-esl-pro-league-season-5-na">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2639">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">04:20</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=6290">Luminosity          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6290" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              cobblestone
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=362&amp;teamid=6211">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6211" class="matchTeamLogo middleAligned"/>
+            </span> Renegades</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307780-luminosity-renegades-esl-pro-league-season-5-na">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2673">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">05:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7575">EnVision          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7575" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              dust2
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=179&amp;teamid=6174">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6174" class="matchTeamLogo middleAligned"/>
+            </span> VeloX</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307824-envision-velox-esea-premier-season-24-north-america">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2639">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">05:30</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=6211">Renegades          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6211" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              dust2
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=362&amp;teamid=6290">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6290" class="matchTeamLogo middleAligned"/>
+            </span> Luminosity</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307781-renegades-luminosity-esl-pro-league-season-5-na">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2639">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">05:30</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=6137">SK          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6137" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              cache
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=179&amp;teamid=5005">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/5005" class="matchTeamLogo middleAligned"/>
+            </span> compLexity</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307783-sk-complexity-esl-pro-league-season-5-na">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2659">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">12:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=5988">FlipSid3          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/5988" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              Best of 3
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=179&amp;teamid=6375">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6375" class="matchTeamLogo middleAligned"/>
+            </span> Vexed</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307837-flipsid3-vexed-hellcase-cup-2">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2659">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">15:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=4602">Tricked          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/4602" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              Best of 3
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=362&amp;teamid=7331">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7331" class="matchTeamLogo middleAligned"/>
+            </span> iGame.com</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307809-tricked-igamecom-hellcase-cup-2">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2671">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">19:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7532">BIG          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7532" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              Best of 3
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=362&amp;teamid=7331">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7331" class="matchTeamLogo middleAligned"/>
+            </span> iGame.com</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307842-big-igamecom-igamecom-winter-invitational">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2664">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">19:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7187">Nexus          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7187" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              Best of 3
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=179&amp;teamid=7397">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7397" class="matchTeamLogo middleAligned"/>
+            </span> Outlaws</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307629-nexus-outlaws-cevo-main-season-11-europe">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+  <br/><div class="matchListDateBox">Saturday, February 11th 2017</div>  <div class="matchListBox event_2659">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">12:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=7331">iGame.com          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7331" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              Best of 3
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=179&amp;teamid=6133">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6133" class="matchTeamLogo middleAligned"/>
+            </span> Orbit</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307810-igamecom-orbit-hellcase-cup-2">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2659">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">15:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=7157">Rogue          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7157" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              Best of 3
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=179&amp;teamid=7318">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7318" class="matchTeamLogo middleAligned"/>
+            </span> Norse</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307811-rogue-norse-hellcase-cup-2">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2645">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">20:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7397">Outlaws          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7397" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              Best of 3
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=179&amp;teamid=6745">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6745" class="matchTeamLogo middleAligned"/>
+            </span> eXtatus</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307633-outlaws-extatus-dolphin-cs-shoot-em-up-2">Details</a></div>    </div>
     <div style="clear:both;"></div>
   </div>
   <br/><div class="matchListDateBox">Sunday, February 12th 2017</div>  <div class="matchListBox event_2658">
@@ -1995,6 +2661,60 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
             </span> Cypher</a>
       </div>
       <div class="matchActionCell"><a href="/match/2307602-chiefs-cypher-acer-cybergamer-premier-league-autumn-2017">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2659">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">15:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=362&amp;teamid=5988">FlipSid3          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/5988" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              Best of 3
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=362&amp;teamid=7157">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7157" class="matchTeamLogo middleAligned"/>
+            </span> Rogue</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307808-flipsid3-rogue-hellcase-cup-2">Details</a></div>    </div>
+    <div style="clear:both;"></div>
+  </div>
+    <div class="matchListBox event_2645">
+        <div class="matchListRow" style="height:40px;">
+
+      <div class="matchTimeCell" style="font-weight: bold;">19:00</div>      <div class="matchTeam1Cell"><a href="/?pageid=179&amp;teamid=7566">Playing Ducks          <span style="padding-left:15px;">
+              <img src="http://static.hltv.org/images/team/logo/7566" class="matchTeamLogo middleAligned"/>
+            </span></a>
+      </div>
+              <div class="matchScoreCell">
+          <div style="margin-top:-16px;">
+            <div
+                style="width:100%;font-weight:normal;font-size:10px;float:left;height:12px;clear:both;margin-bottom:4px;">
+              Best of 3
+            </div>
+            <div style="float:left;clear:both;height:12px;width:100%;">
+              vs
+            </div>
+          </div>
+        </div>
+            <div class="matchTeam2Cell">
+        <a href="/?pageid=179&amp;teamid=6855">
+            <span style="padding-right:15px;">
+              <img src="http://static.hltv.org/images/team/logo/6855" class="matchTeamLogo middleAligned"/>
+            </span> Fragsters</a>
+      </div>
+      <div class="matchActionCell"><a href="/match/2307822-playing-ducks-fragsters-dolphin-cs-shoot-em-up-2">Details</a></div>    </div>
     <div style="clear:both;"></div>
   </div>
   <br/><div class="matchListDateBox">Monday, February 13th 2017</div>  <div class="matchListBox event_2658">
@@ -2314,12 +3034,12 @@ var _prum = [['id', '57580ec7abe53d5d61beef1c'],
 
 
 <!-- Page stats -->
-<!-- Main loaded in 0.064 sec -->
+<!-- Main loaded in 0.108 sec -->
 <!-- sqlConnection loaded in 0.000 sec -->
 <!-- pageinclude loaded in 0.000 sec -->
 <!-- latestActivity loaded in 0.000 sec -->
 <!-- latestBlogs loaded in 0.000 sec -->
 <!-- latestVods loaded in 0.000 sec -->
 <!-- latestDemos loaded in 0.000 sec -->
-<!-- includePage337 loaded in 0.062 sec -->
-<!-- finalFlush loaded in 0.000 sec --><!-- 1485723035 -->
+<!-- includePage337 loaded in 0.105 sec -->
+<!-- finalFlush loaded in 0.000 sec --><!-- 1486607081 -->

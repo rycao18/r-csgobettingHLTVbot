@@ -1,10 +1,8 @@
-var http = require("http");
+var request = require("request");
 var fs = require("fs");
 
-http.get("http://www.hltv.org/matches", function(res) {
-	res.on('data', function (chunk) {
-	    fs.appendFile("output.txt", chunk);
-	});
-}).on('error', function(e) {
-  	console.log("Got error: " + e.message);
+request({
+  uri: "http://hltv.org/matches",
+}, function(error, response, body) {
+  fs.writeFile("output.txt", body);
 });
