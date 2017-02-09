@@ -1,0 +1,22 @@
+{
+  "name": "r-csgobettinghltvbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rycao18/r-csgobettingHLTVbot.git"
+  },
+  "author": "rycao18",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rycao18/r-csgobettingHLTVbot/issues"
+  },
+  "homepage": "https://github.com/rycao18/r-csgobettingHLTVbot#readme",
+  "dependencies": {
+    "hltv-api": "^0.2.0"
+  }
+}
