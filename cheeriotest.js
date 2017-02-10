@@ -28,6 +28,34 @@ $('.matchTimeCell').each(function() {
     time.push(text);
 });
 
-for (var a = 0; a < team1.length; a++) {
-    console.log("Team 1: " + team1[a] + " Team 2: " + team2[a] + " Map: " + maps[a] + " Time: " + time[a]);
+function replaceMaps(callback) {
+    // remove the - and vs that can come with the map
+    for (var b = 0; b < maps.length; b++) {
+        if (maps[b].indexOf("-")) maps[b] = maps[b].substring(0, maps[b].length);
+        if (maps[b].indexOf("vs")) maps[b] = maps[b].substring(0, maps[b].length - 2);
+    }
+    return callback(maps);
 }
+
+function replaceTime() {
+    for (var a = 0; a < time.length; a++) {
+        var hours = parseInt(time[a].substring(0, 2));
+        var mins = parseInt(time[a].substring(4, 6));
+        time[a] = hours*60 + mins;
+    }
+}
+
+function printOut() {
+    var maxTime = 0;
+    replaceMaps(function(retmaps) {
+    replaceTime();
+        for (var a = 0; a < team1.length; a++) {
+            if (time[a] > maxTime){
+                maxTime = time[a];
+                console.log("Team1: " + team1[a] + " Team 2: " + team2[a] + " Map: " + retmaps[a] + " Time: " + time[a]);   
+            }
+        }
+    });
+}
+
+printOut();

@@ -1,8 +1,9 @@
 var rawjs = require('raw.js');
 var reddit = new rawjs("csgobettingbot");
+var config = require("config");
 reddit.setupOAuth2("RxO5CAM77N5pKg", "SWjK2mRfCIb8TEapepaW0oCLNTU", "http://google.com");
 
-reddit.auth({"username": "rycao18", "password": "#blitzpullzrichard1999"}, function(err, response) {
+reddit.auth({"username": config.get("reddituser"), "password": config.get("redditpass")}, function(err, response) {
     if(err) {
         console.log("Unable to authenticate user: " + err);
     } else {
